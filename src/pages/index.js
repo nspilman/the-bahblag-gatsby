@@ -20,6 +20,8 @@ class BlogIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
 <Header/>
+
+<Sidebar data={data}/>
 <div id="main">
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
@@ -50,7 +52,6 @@ class BlogIndex extends React.Component {
 
           )})}
             </div>
-            <Sidebar data={data}/>
             
   </Layout>
 
