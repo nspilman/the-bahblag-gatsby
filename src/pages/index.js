@@ -95,7 +95,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
-            image
+            image{
               childImageSharp {
                 resolutions(width: 400) {
                   width
@@ -104,6 +104,8 @@ export const pageQuery = graphql`
                   srcSet
                 }
               }
+            }
+              
           }
         }
       }
