@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Header from '../components/Header'
+import Img from 'gatsby-image'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -29,7 +30,9 @@ class BlogPostTemplate extends React.Component {
 										<a href="#" className="author"><span className="name"></span><img src="../images/avatar.jpg" alt="" /></a>
 									</div>
 								</header>
-								<span className="image featured"><img src="https://source.unsplash.com/random" alt="" /></span>
+								<span className="image featured">
+                <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+                </span>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
 									<footer>
 									<ul className="stats">
@@ -102,6 +105,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        image{
+          childImageSharp {
+            fluid(maxWidth: 1240 ) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
