@@ -12,7 +12,7 @@ class BlogIndex extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
-    console.log(posts)
+    console.log(posts[0])
 
     return (
       <Layout location={this.props.location} title={siteTitle}> 
@@ -39,7 +39,7 @@ class BlogIndex extends React.Component {
       </div>
     </header>
     <a href="#" className="image featured">
-        <Img sizes={node.frontmatter.image.childImageSharp.sizes} />
+        {/* <Img sizes={node.frontmatter.image.childImageSharp.sizes} /> */}
     </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
     <footer>
