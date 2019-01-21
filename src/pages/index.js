@@ -30,7 +30,7 @@ class BlogIndex extends React.Component {
     <header>
       <div className="title">
         <h2><a href={node.fields.slug}>{node.frontmatter.title}</a></h2>
-        <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
+        <p>{node.frontmatter.description}</p>
       </div>
       <div className="meta">
         <time className="published" dateTime="2015-11-01"> {node.frontmatter.date} </time>
@@ -38,7 +38,6 @@ class BlogIndex extends React.Component {
       </div>
     </header>
     <a href="#" className="image featured">
-    {console.log(node.frontmatter.image)}
         <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
     </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
@@ -98,6 +97,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            description
             image{
               childImageSharp {
                 fluid(maxWidth: 1240 ) {
