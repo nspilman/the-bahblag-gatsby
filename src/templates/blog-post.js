@@ -23,7 +23,7 @@ class BlogPostTemplate extends React.Component {
 								<header>
 									<div className="title">
 										<h2>{post.frontmatter.title}</h2>
-										<p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
+										<p>{post.frontmatter.description}</p>
 									</div>
 									<div className="meta">
 										<time className="published" datetime="2015-11-01">{post.frontmatter.date}</time>
