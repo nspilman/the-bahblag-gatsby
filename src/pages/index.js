@@ -6,7 +6,7 @@ import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import Indexmain from '../components/indexMain'
 import SEO from '../components/seo'
-import Img from 'gatsby-image'
+
 
 class BlogIndex extends React.Component {
   render() {
@@ -22,9 +22,8 @@ class BlogIndex extends React.Component {
         />
 <Header/>
 
-<Indexmain data = {data}/>
 <Sidebar data={data}/>
-
+<Indexmain data = {data}/>
             
   </Layout>
 
