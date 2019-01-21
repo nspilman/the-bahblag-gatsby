@@ -104,6 +104,7 @@ export const pageQuery = graphql`
                 sizes(maxWidth: 1240 ) {
                   srcSet
                 }
+              }
           }
         }
       }
