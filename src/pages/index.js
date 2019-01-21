@@ -37,18 +37,13 @@ class BlogIndex extends React.Component {
         <a href="#" className="author"><span className="name">AUTHOR</span><img src="images/avatar.jpg" alt="" /></a>
       </div>
     </header>
-    <a href="#" className="image featured">
+    <a href="{node.fields.slug}" className="image featured">
         <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
     </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
     <footer>
       <ul className="actions">
-        <li><a href="#" className="button big">Continue Reading</a></li>
-      </ul>
-      <ul className="stats">
-        <li><a href="#">General</a></li>
-        <li><a href="#" className="icon fa-heart">28</a></li>
-        <li><a href="#" className="icon fa-comment">128</a></li>
+        <li><a href={node.fields.slug} className="button big">Continue Reading</a></li>
       </ul>
     </footer>
   </article>
