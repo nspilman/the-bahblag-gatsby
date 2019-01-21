@@ -39,7 +39,7 @@ class BlogIndex extends React.Component {
     </header>
     <a href="#" className="image featured">
     {console.log(node.frontmatter.image)}
-        <Img sizes={node.frontmatter.image.childImageSharp.sizes} />
+        <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
     </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
     <footer>
@@ -99,9 +99,10 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             image{
+              publicUrl
               childImageSharp {
-                sizes(maxWidth: 1240 ) {
-                  srcSet
+                fluid(maxWidth: 1240 ) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
