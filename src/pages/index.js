@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import SEO from '../components/seo'
+import Img from 'gatsby-image'
 
 class BlogIndex extends React.Component {
   render() {
@@ -37,7 +38,9 @@ class BlogIndex extends React.Component {
         <a href="#" className="author"><span className="name">AUTHOR</span><img src="images/avatar.jpg" alt="" /></a>
       </div>
     </header>
-    <a href="#" className="image featured"><img src="https://source.unsplash.com/random" alt="" /></a>
+    <a href="#" className="image featured">
+        <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
+    </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
     <footer>
       <ul className="actions">
