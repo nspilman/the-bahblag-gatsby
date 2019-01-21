@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 class indexMain extends React.Component {
 render(){
     const { data } = this.props
+    const posts = data.allMarkdownRemark.edges
     return(
     <div id="main">
     {posts.map(({ node }) => {
