@@ -4,7 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
-import indexMain from '../components/indexMain'
+import Indexmain from '../components/indexMain'
 import SEO from '../components/seo'
 import Img from 'gatsby-image'
 
@@ -12,7 +12,7 @@ class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMarkdownRemark.edges
+    
 
     return (
       <Layout location={this.props.location} title={siteTitle}> 
@@ -22,7 +22,7 @@ class BlogIndex extends React.Component {
         />
 <Header/>
 
-<indexMain data = {data}/>
+<Indexmain data = {data}/>
 <Sidebar data={data}/>
 
             
