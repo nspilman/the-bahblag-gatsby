@@ -39,7 +39,7 @@ class BlogIndex extends React.Component {
     </header>
     <a href="#" className="image featured">
     {console.log(node.frontmatter.image)}
-        <Img sizes={node.frontmatter.image.childImageSharp.fluid.sizes} />
+        <Img sizes={node.frontmatter.image.childImageSharp.sizes} />
     </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
     <footer>
