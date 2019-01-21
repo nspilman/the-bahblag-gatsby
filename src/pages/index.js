@@ -37,7 +37,7 @@ class BlogIndex extends React.Component {
         <a href="#" className="author"><span className="name">AUTHOR</span><img src="images/avatar.jpg" alt="" /></a>
       </div>
     </header>
-    <a href="{node.fields.slug}" className="image featured">
+    <a href={node.fields.slug} className="image featured">
         <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
     </a>
     <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
