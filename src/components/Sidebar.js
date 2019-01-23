@@ -12,8 +12,8 @@ render(){
 								</header>
 							</section>
 
-							<section>
-								<div className="mini-posts">
+							{/* <section>
+								<div className="mini-posts"> */}
 
 
 {/* // {posts.map(({ node }) => { }
@@ -56,8 +56,8 @@ render(){
 											<a href="#" className="image"><img src="../images/pic07.jpg" alt="" /></a>
 										</article> */}
 
-								</div>
-							</section>
+								{/* </div>
+							</section> */}
 
 							{/* <section>
 								<ul className="posts">
@@ -114,7 +114,7 @@ render(){
 								<p>
 This is Nate and Claire's travel blog!</p>
 								<ul className="actions">
-									<li><a href="#" className="button">Learn More</a></li>
+									<li><a href="/about" className="button">Learn More</a></li>
 								</ul>
 							</section>
 
