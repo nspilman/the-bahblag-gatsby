@@ -97,6 +97,11 @@ export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
+    site{
+      siteMetadata {
+        title
+      }
+    }
     markdownRemark(id: { eq: $id }) {
       id
       html
