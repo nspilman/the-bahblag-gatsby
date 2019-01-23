@@ -22,7 +22,7 @@ class BlogIndex extends React.Component {
         />
 <Header/>
 
-<Sidebar data={data}/>
+<Sidebar/>
 <Indexmain data = {data}/>
             
   </Layout>

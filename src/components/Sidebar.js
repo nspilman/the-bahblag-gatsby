@@ -3,7 +3,6 @@ import { Link } from 'gatsby'
 
 class Sidebar extends React.Component {
 render(){
-    const { data } = this.props
     return(
                         <section id="sidebar">
 							<section id="intro">
