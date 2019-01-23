@@ -6,7 +6,6 @@ class indexMain extends React.Component {
 render(){
     const { data } = this.props
     const posts = data.allMarkdownRemark.edges
-    console.log(posts)
     return(
     <div id="main">
     {posts.map(({ node }) => {

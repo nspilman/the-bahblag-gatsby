@@ -4,9 +4,6 @@ import { Link } from 'gatsby'
 class Sidebar extends React.Component {
 render(){
     const { data } = this.props
-    const posts = data.allMarkdownRemark.edges
-
-    console.log(data)
     return(
                         <section id="sidebar">
 							<section id="intro">
@@ -18,18 +15,21 @@ render(){
 
 							<section>
 								<div className="mini-posts">
-{posts.map(({ node }) => {
-    const title = node.frontmatter.title || node.fields.slug
-    return (
-										<article className="mini-post">
-											<header>
-												<h3><a href="#">{node.frontmatter.title}</a></h3>
-												<time className="published" dateTime="2015-10-20">{node.frontmatter.title}</time>
-												<a href="#" className="author"><img src="../images/avatar.jpg" alt="" /></a>
-											</header>
-											<a href="#" className="image"><img src="../images/pic04.jpg" alt="" /></a>
-										</article>
-    )})}
+
+
+{/* // {posts.map(({ node }) => { }
+//     const title = node.frontmatter.title || node.fields.slug
+//     return (
+// 										<article className="mini-post">
+// 											<header>
+// 												<h3><a href="#">{node.frontmatter.title}</a></h3>
+// 												<time className="published" dateTime="2015-10-20">{node.frontmatter.title}</time>
+// 												<a href="#" className="author"><img src="../images/avatar.jpg" alt="" /></a>
+// 											</header>
+// 											<a href="#" className="image"><img src="../images/pic04.jpg" alt="" /></a>
+// 										</article>
+	)})}*/}
+	
 										{/* <article className="mini-post">
 											<header>
 												<h3><a href="#">Rutrum neque accumsan</a></h3>
@@ -60,7 +60,7 @@ render(){
 								</div>
 							</section>
 
-							<section>
+							{/* <section>
 								<ul className="posts">
 									<li>
 										<article>
@@ -108,7 +108,7 @@ render(){
 										</article>
 									</li>
 								</ul>
-							</section>
+							</section> */}
 
 							<section className="blurb">
 								<h2>About</h2>
@@ -119,16 +119,8 @@ render(){
 							</section>
 
 							<section id="footer">
-								<ul className="icons">
-									<li><a href="#" className="fa-twitter"><span className="label">Twitter</span></a></li>
-									<li><a href="#" className="fa-facebook"><span className="label">Facebook</span></a></li>
-									<li><a href="#" className="fa-instagram"><span className="label">Instagram</span></a></li>
-									<li><a href="#" className="fa-rss"><span className="label">RSS</span></a></li>
-									<li><a href="#" className="fa-envelope"><span className="label">Email</span></a></li>
-								</ul>
-								<p className="copyright">&copy; Untitled.</p>
+								<p className="copyright">&copy; Claire & Nate.</p>
 							</section>
-
 					</section>
 )
 }}
