@@ -52,6 +52,7 @@ class Layout extends React.Component {
     //   )
     // }
     return (
+      <div id="wrapper">
       <Helmet
   title="The Lobsteau Blog"
   meta={[
@@ -62,7 +63,6 @@ class Layout extends React.Component {
       { rel: 'shortcut icon', type: 'image/jpg', href: `${icon}` }
   ]}
 />
-      <div id="wrapper">
       {header}
       {children}
       </div>
