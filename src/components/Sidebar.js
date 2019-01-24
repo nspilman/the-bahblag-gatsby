@@ -6,7 +6,7 @@ render(){
     return(
                         <section id="sidebar">
 							<section id="intro">
-								<a href="#" className="logo"><img src="../img/theBabes.jpg" alt="" /></a>
+								<a href="#" className="logo"><img src="../../static/img/theBabes.jpg" alt="" /></a>
 								<header>
 									<h2>{this.props.header}</h2>
 								</header>
