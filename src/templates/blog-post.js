@@ -9,7 +9,6 @@ import Img from 'gatsby-image'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    console.log(post)
     const siteTitle = post.frontmatter.title
     const { previous, next } = this.props.pageContext
 
@@ -34,15 +33,10 @@ class BlogPostTemplate extends React.Component {
                 <Img fluid={post.frontmatter.image.childImageSharp.fluid} />
                 </span>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
-									<footer>
-									<ul className="stats">
-										<li><a href="#">General</a></li>
-										<li><a href="#" className="icon fa-heart">28</a></li>
-										<li><a href="#" className="icon fa-comment">128</a></li>
-									</ul>
-								</footer>
 							</article>
-
+              <ul className="actions">
+									<li><a href="/" className="button">Home Page</a></li>
+								</ul>
 					</div>
         {/* /* <h1>{post.frontmatter.title}</h1>
         <p

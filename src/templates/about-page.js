@@ -20,6 +20,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <PageContent className="content" content={content} />
             </div>
+            <ul className="actions">
+									<li><a href="/" className="button">Home Page</a></li>
+								</ul>
           </div>
         </div>
       </div>
@@ -46,6 +49,7 @@ const AboutPage = ({ data }) => {
         title={post.frontmatter.title}
         content={post.html}
       />
+      
     </Layout>
   )
 }
