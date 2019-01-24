@@ -39,7 +39,7 @@ const AboutPage = ({ data }) => {
   return (
     <Layout>
       <Header/>
-      <Sidebar/>
+      <Sidebar header="About the Lobsteau Blog"/>
   
       <AboutPageTemplate
         contentComponent={HTMLContent}

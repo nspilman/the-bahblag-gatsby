@@ -19,7 +19,6 @@ render(){
   </div>
   <div className="meta">
     <time className="published" dateTime="2015-11-01"> {node.frontmatter.date} </time>
-    <a href="#" className="author"><span className="name">AUTHOR</span><img src="images/avatar.jpg" alt="" /></a>
   </div>
 </header>
 <a href={node.fields.slug} className="image featured">

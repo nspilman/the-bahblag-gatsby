@@ -8,7 +8,7 @@ render(){
 							<section id="intro">
 								<a href="#" className="logo"><img src="../images/theBabes.jpg" alt="" /></a>
 								<header>
-									<h2>Nate and Claire's Travel blog</h2>
+									<h2>{this.props.header}</h2>
 								</header>
 							</section>
 
