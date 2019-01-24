@@ -3,5 +3,5 @@ import 'typeface-montserrat'
 import 'typeface-merriweather'
 
 import "./src/styles/main.css"
-import '~bootstrap/dist/css/bootstrap.css';
+import "node_modules/bootstrap/scss/bootstrap.scss"; 
 
