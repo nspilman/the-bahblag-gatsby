@@ -1,12 +1,13 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import bahbes from "../img/theBabes.jpg"
 
 class Sidebar extends React.Component {
 render(){
     return(
                         <section id="sidebar">
 							<section id="intro">
-								<a href="#" className="logo"><img src="../../static/img/theBabes.jpg" alt="" /></a>
+								<a href="#" className="logo"><img src={bahbes} alt="" /></a>
 								<header>
 									<h2>{this.props.header}</h2>
 								</header>
