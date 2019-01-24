@@ -1,5 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import Helmet from 'react-helmet'
+import icon from '../img/globe.jpg'
 
 class Layout extends React.Component {
   render() {
@@ -50,6 +52,16 @@ class Layout extends React.Component {
     //   )
     // }
     return (
+      <Helmet
+  title="The Lobsteau Blog"
+  meta={[
+      { name: 'description', content: 'The Travel Blog of Claire and Nate' },
+      { name: 'keywords', content: 'webdev, photography, gatsbyjs, reactjs, frontend, graphql, design, photo, photos' },
+  ]}
+  link={[
+      { rel: 'shortcut icon', type: 'image/jpg', href: `${icon}` }
+  ]}
+/>
       <div id="wrapper">
       {header}
       {children}
