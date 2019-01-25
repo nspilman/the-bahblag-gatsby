@@ -6,6 +6,6 @@ description: I am a draft
 image: /img/img_1834.jpg
 tags:
   - Draft
-draft: false
+draft: true
 ---
 Draft Draft Draft
