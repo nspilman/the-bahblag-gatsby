@@ -2084,8 +2084,6 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
-		max-height:100vh;
-		width:auto;
 	}
 
 		.image img {
