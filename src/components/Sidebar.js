@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import bahbes from "../img/theBabes.jpg"
+import Mailing from "./Mailing.Js"
 
 class Sidebar extends React.Component {
 render(){
@@ -118,6 +119,7 @@ This is Nate and Claire's travel blog!</p>
 									<li><a href="/about" className="button">Learn More</a></li>
 								</ul>
 							</section>
+							<Mailing/>
 
 							<section id="footer">
 								<p className="copyright">&copy; Claire & Nate.</p>
