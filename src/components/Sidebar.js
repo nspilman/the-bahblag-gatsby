@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import bahbes from "../img/theBabes.jpg"
-import Mailing from "./Mailing.Js"
+import Mailing from "./Mailing.js"
 
 class Sidebar extends React.Component {
 render(){
