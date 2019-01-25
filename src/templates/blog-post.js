@@ -30,7 +30,7 @@ class BlogPostTemplate extends React.Component {
 									</div>
 								</header>
 								<span className="image featured">
-                <Img fluid={post.frontmatter.image.childImageSharp.fluid} />
+                <Img fluid={post.frontmatter.image.childImageSharp.fluid} className = "p5" />
                 </span>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
 							</article>
