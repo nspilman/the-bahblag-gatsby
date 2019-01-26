@@ -16,9 +16,11 @@ this.updateEmail = this.updateEmail.bind(this);
             'https://artsonthehudson.com/921gsheet/blog',
             {
                 "email":this.state.email
-            },{
-            headers: {"Access-Control-Allow-Origin": "*"}
-            }
+            },
+            {headers: {
+                'Access-Control-Allow-Origin': '*',
+                'Content-Type': 'application/json',
+              }},
         ).then(resp =>
             console.log(resp)
         )
