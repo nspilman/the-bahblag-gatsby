@@ -12,7 +12,7 @@ return(
   </div>
   </form>
 
-<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-primary" style={{height:'3em'}}>submit</button>
 </div>
 
 )}}
