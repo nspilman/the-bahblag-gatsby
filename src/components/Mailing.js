@@ -23,7 +23,7 @@ return(
 <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Join our Mailing List</label>
-    <input type="email" onChange={this.addEmail} value={this.state.email} class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
+    <input type="email" onChange={this.updateEmail} value={this.state.email} class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
   </div>
   </form>
 
