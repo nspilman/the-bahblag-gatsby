@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Header from '../components/Header'
+import Sidebar from '../components/Sidebar'
 import Img from 'gatsby-image'
 
 class BlogPostTemplate extends React.Component {
@@ -16,6 +17,7 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <Header/>
+        <Sidebar header={post.frontmatter.title}/>
 					<div id="main">
 
 							<article className="post">
