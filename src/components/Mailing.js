@@ -19,7 +19,7 @@ this.updateEmail = this.updateEmail.bind(this);
             },
             {
                 'Access-Control-Allow-Origin': '*',
-                'Content-Type': 'application/json',
+                'Content-Type': 'multipart/form-data',
               },
         ).then(resp =>
             console.log(resp)
