@@ -1,6 +1,17 @@
 import React from 'react'
 import axios from 'axios'
 
+const blogAPI = axios.create( 
+    {
+        baseURL: "https://artsonthehudson.com/921gsheet/blog",
+        timeout: 1000,
+        headers:{
+            'Access-Control-Allow-Origin': '*',
+                'Content-Type': 'multipart/form-data',
+        }
+    }
+)
+
 class Mailing extends React.Component {
     constructor(){
         super();
@@ -12,15 +23,10 @@ this.updateEmail = this.updateEmail.bind(this);
     }
     addEmail(){
         console.log(this.state.email)
-        axios.post(
-            'https://artsonthehudson.com/921gsheet/blog',
+        blogAPI.post(
             {
                 "email":this.state.email
             },
-            {
-                'Access-Control-Allow-Origin': '*',
-                'Content-Type': 'multipart/form-data',
-              },
         ).then(resp =>
             console.log(resp)
         )
