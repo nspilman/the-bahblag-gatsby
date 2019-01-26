@@ -13,7 +13,7 @@ this.updateEmail = this.updateEmail.bind(this);
     addEmail(){
         console.log(this.state.email)
         axios.post(
-            'https://artsonthehudson.com/921gsheet/blog/',{
+            'https://artsonthehudson.com/921gsheet',{
                 "email":this.state.email
             }
         ).then(resp =>
