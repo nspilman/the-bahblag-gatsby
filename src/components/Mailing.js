@@ -7,7 +7,7 @@ const blogAPI = axios.create(
         timeout: 1000,
         headers:{
             'Access-Control-Allow-Origin': '*',
-                'Content-Type': 'multipart/form-data',
+                'Content-Type': 'text/plain',
         }
     }
 )
