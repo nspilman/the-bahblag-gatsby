@@ -15,7 +15,7 @@ this.updateEmail = this.updateEmail.bind(this);
         axios.post(
             'https://artsonthehudson.com/921gsheet/blog',
             {
-                "email":this.state.email;
+                "email":this.state.email
             }
         )
     }
