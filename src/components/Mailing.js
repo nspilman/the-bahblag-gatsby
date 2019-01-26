@@ -17,10 +17,10 @@ this.updateEmail = this.updateEmail.bind(this);
             {
                 "email":this.state.email
             },
-            {headers: {
+            {
                 'Access-Control-Allow-Origin': '*',
                 'Content-Type': 'application/json',
-              }},
+              },
         ).then(resp =>
             console.log(resp)
         )
