@@ -1,15 +1,13 @@
 import React from 'react'
 
-function addEmail (){
-    document.querySelector
-}
-
 class Mailing extends React.Component {
     constructor(){
         super();
         this.state = {
            email: null,
         }
+        this.addEmail = this.addEmail.bind(this);
+this.updateEmail = this.updateEmail.bind(this);
     }
     addEmail(){
         console.log(this.state.email)
