@@ -8,6 +8,7 @@ class Mailing extends React.Component {
            email: null,
         }
         this.addEmail = this.addEmail.bind(this);
+        this.addEmail2 = this.addEmail2.bind(this);
 this.updateEmail = this.updateEmail.bind(this);
     }
     addEmail(){
@@ -27,6 +28,27 @@ this.updateEmail = this.updateEmail.bind(this);
         )
     }
 
+    addEmail2(){
+        console.log(this.state.email)
+        fetch(
+            "https://artsonthehudson.com/921gsheet/blog",
+            {
+                method:"POST",
+            mode: "no-cors", // no-cors, cors, *same-origin
+        headers: {
+            "Content-Type": "application/json",
+            // "Content-Type": "application/x-www-form-urlencoded",
+        },
+        redirect: "follow", // manual, *follow, error
+        referrer: "no-referrer", // no-referrer, *client
+        body: JSON.stringify({
+            "email":this.state.email
+        }), // body data type must match "Content-Type" header
+    })
+    .then(response => response.json()); // parses response to JSON
+}
+        
+
     updateEmail(e){
         this.setState({email: e.target.value})
     }   
@@ -41,7 +63,7 @@ return(
   </div>
   </form>
 
-<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail}>submit</button>
+<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail2}>submit</button>
 </div>
 
 )}}
