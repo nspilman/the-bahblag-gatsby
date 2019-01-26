@@ -1,6 +1,23 @@
 import React from 'react'
 
+function addEmail (){
+    document.querySelector
+}
+
 class Mailing extends React.Component {
+    constructor(){
+        super();
+        this.state = {
+           email: null,
+        }
+    }
+    addEmail(){
+        console.log(this.state.email)
+    }
+
+    updateEmail(e){
+        this.setState({email: e.target.value})
+    }   
 
     render() {
 return(
@@ -8,11 +25,11 @@ return(
 <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Join our Mailing List</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
+    <input type="email" onChange={this.addEmail} value={this.state.email} class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
   </div>
   </form>
 
-<button type="button" class="btn btn-primary" style={{height:'3em'}}>submit</button>
+<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail}>submit</button>
 </div>
 
 )}}
