@@ -1,4 +1,5 @@
 import React from 'react'
+import axios from 'axios'
 
 class Mailing extends React.Component {
     constructor(){
@@ -11,6 +12,12 @@ this.updateEmail = this.updateEmail.bind(this);
     }
     addEmail(){
         console.log(this.state.email)
+        axios.post(
+            'https://artsonthehudson.com/921gsheet/blog',
+            {
+                "email":this.state.email;
+            }
+        )
     }
 
     updateEmail(e){
