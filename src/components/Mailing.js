@@ -17,9 +17,9 @@ this.updateEmail = this.updateEmail.bind(this);
             {
                 "email":this.state.email
             }
-        ).then(resp =>{
+        ).then(resp =>
             console.log(resp)
-        })
+        )
     }
 
     updateEmail(e){
