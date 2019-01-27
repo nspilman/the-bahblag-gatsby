@@ -65,3 +65,31 @@ We were then allowed to hold them :-)
 And just as the demo ended, our tour began! We were lead around by the charming and knowledgeable Sergio. 
 
 ![](/img/londonGlobeGuide.jpg)
+
+We learned this this is actually the third Globe Theatre. The first Globe burned down after 14 years, when they set off a cannon from the roof of the theatre for theatric effect. The second Globe was demolished during Puritan rule, after the Theatre was shut down for... being too much fun. For being against Puritanical order. The theatre we were touring was only 22 years old, putting on Shakespeare and non-Shakespeare plays alike. 
+
+While we were learning about the Globe, theater students were performing on stage. They were performing The Changeling", which I admit I had to google. 
+
+![](/img/londonStageActors.jpg)
+
+![](/img/londonDirector.jpg)
+
+## 
+
+## Borough Market, a view of the Tower of London, and Brew Dog Beer
+
+Shakespeare gave us quite the appetite, so it was time for a late lunch at the Borough Market. Claire made an observation on the way there - it is customary in London to walk on the left side when passing people, just as the cars drive, but in the tourist areas, everyone passed on the right. The non-British way ruled.
+
+The Borough Market was heckacrowded, so we did a lap and then got in line for chicken shwarma. They were delicious. 
+
+![](/img/londonShwarma.jpg)
+
+ We then made our way over to the Tower of London. We crossed the London Bridge, which didn't fall down (sorry), and through an area that reminded me of New York's City Hall area to the Tower of London, passing the Brewdogs taproom along the way. 
+
+![London TOL](/img/londonTOL.jpg "London TOL")
+
+It was quite chilly, windy and threatening rain. My exhaustion hit, and I _really _didn't feel like spending $40 a person to tour this tower. I DID feel like grabbing a beer at Brewdogs. Next time, Tower of London! We doubled back to Brewdogs, and enjoyed the heat and WiFi. I grabbed a Dead Pony Pale Ale (delicious), and Claire got a guest tap Framboise that honestly tasted like artificial sweetener. 
+
+![](/img/londonBrewDogs.jpg)
+
+![](/img/londonHopExchange.jpg)
