@@ -21,8 +21,7 @@ this.updateEmail = this.updateEmail.bind(this);
             },
             {
             headers:{
-                'Access-Control-Allow-Origin': '*',
-                    'Content-Type': 'text/plain',
+                    'content-type': 'application/json',
             }}
         ).then(resp =>
             console.log(resp)
