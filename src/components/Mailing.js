@@ -76,7 +76,7 @@ return(
   </div>
   </form>
 
-<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail3}>submit</button>
+<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail}>submit</button>
 </div>
 
 )}}
