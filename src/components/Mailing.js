@@ -41,9 +41,9 @@ this.updateEmail = this.updateEmail.bind(this);
         },
         redirect: "follow", // manual, *follow, error
         referrer: "no-referrer", // no-referrer, *client
-        body: {
+        body: JSON.stringify({
             "email":this.state.email
-        }, // body data type must match "Content-Type" header
+        }), // body data type must match "Content-Type" header
     })
     .then(response => response.json()); // parses response to JSON
 }
