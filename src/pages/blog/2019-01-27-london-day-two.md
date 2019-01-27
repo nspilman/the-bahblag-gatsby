@@ -8,7 +8,7 @@ description: >-
 image: /img/londonflag.jpg
 tags:
   - london day 2
-draft: true
+draft: false
 ---
 Nate here!
 
@@ -90,8 +90,6 @@ It was quite chilly, windy and threatening rain. My exhaustion hit, and I _reall
 
 Once we finished our beers and checked our respective social media accounts, we were off to Rough Trade East on Brick Lane, a récord store in a trendy part of town. This area was touted by our Airbnb hosts as one of the coolest neighborhoods in London, going from impoverished so super trendy in the recent past. 
 
-
-
 ## Brick Ln, Rough Trade, Vintage shops and Vegan everything
 
 On the walk to Brink Ln, I continued to marvel at how much London reminded me of New York City. We turned onto Brick Ln and I was immediately in love. The streets were full of middle eastern and Indian restaurants, with art and graffiti covering every inch. The closer we got to Rough Trade, the cooler everyone we passed looked. And by “cool” I mean a healthy combination of outfits that I thought looked good, and outfits that Claire and I are obviously too uncool to understand. 
@@ -107,3 +105,23 @@ We got to Rough Trade, and it was basically the Mecca of cool.
 Claire’s reading a book on stuff made in North Korea
 
 After wandering around Rough Trade and enjoying the music they were playing, Claire and I moved onto the largest vintage market in London, or something like that, a few paces away. I thoroughly enjoyed wandering through all the different vintage clothing booths, not caring for nearly any of clothing. Anything I would wear was hecka expensive anyway, so it was more of a museum than anything. The people watching was also prime, as most were dresses similarly to the clothing on the racks.
+
+![](/img/londonBrickLaneVintage.jpg)
+
+![](/img/londonVintage.jpg)
+
+![](/img/LondonYankees.jpg)
+
+We walked up and down the area and were taken about by how Vegan friendly the area was. Every place we passed advertised their vegan options, with many restaurants only serving vegan food. We had a fun time walking around House of Vegan, which had an assortment of different vendors serving vegan cheesesteaks, vegan burgers and of course, peanut butter and jelly sandwiches. 
+
+![](/img/londonhov.jpg)
+
+It was time for dinner, and we walked up and down Brick Lane a few times in search of food. It had started raining, and we were pretty darn cold. I was in the mood for Indian, but all the Indian places on the street had guys out front, trying to solicit us in. "I'll give you a special price, my friend" they'd say - an immediate red flag with regards to either the quality of the food or the prices listed on the menu - or both. They also all had Trip Advisor ratings printed on their windows, and I could more than one "Voted Best Curry in London" signs. At our peak frustration and frigidness, we turned to the best medicine - hot chocolate. 
+
+We peaked into a hot chocolate bar served that all kinds of hot chocolates. I got a chili hot chocolate while Claire got a classic. The place was bumping Jamaican influence r&b, and the hot chocolate baristas everso skillfully sliced additional chocolate info fine shavings before placing it on top of our drinks. It hit the spot, and put is in sound mind to make our dinner selection. 
+
+![](/img/londonHC.jpg)
+
+We ended up choosing an Indian place down the block with wonderful reviews, and when we arrived, we were delighted that there wasn't anyone outside ushering us in. I got a lamb and chickpea dish while Claire got a lentil soup - both with bread. The meal was everything I was hoping for. 
+
+From there, we called it a night, taking the London Overground to the Underground back to the AirBnB in Finsbury Park.
