@@ -15,7 +15,7 @@ this.updateEmail = this.updateEmail.bind(this);
     addEmail(){
         console.log(this.state.email)
         axios.post(
-            "https://artsonthehudson.com/921gsheet/blog",
+            "https://artsonthehudson.com/921gsheet/blog/",
             {
                 "email":this.state.email
             },
@@ -76,7 +76,7 @@ return(
   </div>
   </form>
 
-<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail3}>submit</button>
+<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail}>submit</button>
 </div>
 
 )}}
