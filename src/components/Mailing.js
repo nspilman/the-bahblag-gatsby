@@ -12,7 +12,8 @@ class Mailing extends React.Component {
         this.addEmail3 = this.addEmail3.bind(this);
 this.updateEmail = this.updateEmail.bind(this);
     }
-    addEmail(){
+    addEmail(e){
+        e.preventDefault();
         console.log(this.state.email)
         axios.post(
             "https://artsonthehudson.com/921gsheet/blog",
@@ -73,9 +74,9 @@ return(
     <label for="exampleInputEmail1">Join our Mailing List</label>
     <input type="email" onChange={this.updateEmail} value={this.state.email} class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
   </div>
+  <button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail} value="Submit">submit</button>
   </form>
 
-<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail}>submit</button>
 </div>
 
 )}}
