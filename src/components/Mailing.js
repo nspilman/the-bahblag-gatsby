@@ -9,6 +9,7 @@ class Mailing extends React.Component {
         }
         this.addEmail = this.addEmail.bind(this);
         this.addEmail2 = this.addEmail2.bind(this);
+        this.addEmail3 = this.addEmail3.bind(this);
 this.updateEmail = this.updateEmail.bind(this);
     }
     addEmail(){
@@ -47,6 +48,18 @@ this.updateEmail = this.updateEmail.bind(this);
     })
     .then(response => response.json()); // parses response to JSON
 }
+addEmail3(){
+    axios.post(
+        'https://artsonthehudson.com/921gsheet',{
+            "group":"9999",
+            "firstname":"testUser",
+            "function":"login"
+            }
+            ).then(response => console.log(response))
+.catch(e => {
+  this.errors.push(e)
+})
+}
         
 
     updateEmail(e){
@@ -63,7 +76,7 @@ return(
   </div>
   </form>
 
-<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail2}>submit</button>
+<button type="button" class="btn btn-primary" style={{height:'3em'}} onClick={this.addEmail3}>submit</button>
 </div>
 
 )}}
