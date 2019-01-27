@@ -20,8 +20,6 @@ We started our morning slowly. We got a ton of much needed sleep after our previ
 
 Our host Greg told us all about the local foxes, and how difficult life is for an "Urban Fox." Urban Fox is a great band name, btw. We were soon to be off, and Greg was heading in the same direction, so we walked together to the tube. We exchanged travel stories, and how he and his husband want to return to Turkey for a trip, where his husband is from, but are worrisome of the conservative Turkish government. 
 
-
-
 ## St. Paul's Cathedral and crossing the Thames
 
 We took the tube to St Paul's Cathedral from Finsbury Park. I'm quite impressed with the London Underground system. We can seemingly get anywhere we want, and the train run regularly. Basically  if the New York Subway system ran more regularly, but didn't have express trains. 
@@ -37,8 +35,6 @@ _St Paul's Cathedral in the background_
 We quickly made our way to Shakespeare's Globe Theatre. 
 
 ![](/img/londonGlobeOutside.jpg)
-
-
 
 ## Swordplay and a tour of the Globe Theatre
 
@@ -59,8 +55,6 @@ We were then allowed to hold them :-)
 ![Nate with Sword](/img/LondonNateSword.jpg "Claire with Sword")
 
 ![](/img/londonClaireSword.jpg)
-
-
 
 And just as the demo ended, our tour began! We were lead around by the charming and knowledgeable Sergio. 
 
@@ -93,3 +87,23 @@ It was quite chilly, windy and threatening rain. My exhaustion hit, and I _reall
 ![](/img/londonBrewDogs.jpg)
 
 ![](/img/londonHopExchange.jpg)
+
+Once we finished our beers and checked our respective social media accounts, we were off to Rough Trade East on Brick Lane, a récord store in a trendy part of town. This area was touted by our Airbnb hosts as one of the coolest neighborhoods in London, going from impoverished so super trendy in the recent past. 
+
+
+
+## Brick Ln, Rough Trade, Vintage shops and Vegan everything
+
+On the walk to Brink Ln, I continued to marvel at how much London reminded me of New York City. We turned onto Brick Ln and I was immediately in love. The streets were full of middle eastern and Indian restaurants, with art and graffiti covering every inch. The closer we got to Rough Trade, the cooler everyone we passed looked. And by “cool” I mean a healthy combination of outfits that I thought looked good, and outfits that Claire and I are obviously too uncool to understand. 
+
+We got to Rough Trade, and it was basically the Mecca of cool.
+
+![](/img/LondonRoughTradeLogo.jpg)
+
+![](/img/londonroughtrade.jpg)
+
+![](/img/londonClaireReading.jpg)
+
+Claire’s reading a book on stuff made in North Korea
+
+After wandering around Rough Trade and enjoying the music they were playing, Claire and I moved onto the largest vintage market in London, or something like that, a few paces away. I thoroughly enjoyed wandering through all the different vintage clothing booths, not caring for nearly any of clothing. Anything I would wear was hecka expensive anyway, so it was more of a museum than anything. The people watching was also prime, as most were dresses similarly to the clothing on the racks.
