@@ -9,8 +9,6 @@ class Mailing extends React.Component {
            loginStatus:null
         }
         this.addEmail = this.addEmail.bind(this);
-        this.addEmail2 = this.addEmail2.bind(this);
-        this.addEmail3 = this.addEmail3.bind(this);
 this.updateEmail = this.updateEmail.bind(this);
     }
     addEmail(e){
