@@ -7,6 +7,12 @@ import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import Img from 'gatsby-image'
 
+const mainImg = ()=>{
+  return(
+    <Img fluid={post.frontmatter.image.childImageSharp.fluid} className = "p5" />
+  )
+}
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
@@ -17,7 +23,7 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <Header/>
-        <Sidebar header={post.frontmatter.title} imgsrc={post.frontmatter.image.childImageSharp.fluid} />
+        <Sidebar header={post.frontmatter.title} mainImg={mainImg} />
 					<div id="main">
 
 							<article className="post">
