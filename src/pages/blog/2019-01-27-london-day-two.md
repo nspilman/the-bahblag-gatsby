@@ -3,7 +3,7 @@ templateKey: blog-post
 title: London - Day Two
 date: 2019-01-27T10:32:18.463Z
 description: >-
-  Wildlife sitings, crossing the Thames, Shakespeare's globe theater, Borough
+  Wildlife sightings, crossing the Thames, Shakespeare's globe theater, Borough
   Market, Brewdogs taproom, Brick Lane, Hot Chocolate and Indian food
 image: /img/londonflag.jpg
 tags:
