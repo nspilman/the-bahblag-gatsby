@@ -3,7 +3,7 @@ templateKey: blog-post
 title: London - Day Two
 date: 2019-01-27T10:32:18.463Z
 description: >-
-  Wildlife sitings, crossing the Thames, Shakespeare's globe theater, Borough
+  Wildlife sightings, crossing the Thames, Shakespeare's globe theater, Borough
   Market, Brewdogs taproom, Brick Lane, Hot Chocolate and Indian food
 image: /img/londonflag.jpg
 tags:
@@ -93,6 +93,8 @@ Once we finished our beers and checked our respective social media accounts, we 
 ## Brick Ln, Rough Trade, Vintage shops and Vegan everything
 
 On the walk to Brink Ln, I continued to marvel at how much London reminded me of New York City. We turned onto Brick Ln and I was immediately in love. The streets were full of middle eastern and Indian restaurants, with art and graffiti covering every inch. The closer we got to Rough Trade, the cooler everyone we passed looked. And by “cool” I mean a healthy combination of outfits that I thought looked good, and outfits that Claire and I are obviously too uncool to understand. 
+
+![](/img/img_1404.jpg)
 
 We got to Rough Trade, and it was basically the Mecca of cool.
 
