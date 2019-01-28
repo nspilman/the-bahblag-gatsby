@@ -2,7 +2,7 @@ import React from 'react'
 import axios from 'axios'
 import localStorage from "node-localstorage"
 
-const localStorage = new LocalStorage('./scratch');
+const ls = new LocalStorage('./scratch');
 
 class Mailing extends React.Component {
     constructor(){
@@ -28,7 +28,7 @@ this.updateEmail = this.updateEmail.bind(this);
             }}
         ).then(resp =>
             {if(resp.status == "200"){
-                localStorage.setItem('mailSub',true)
+                ls.setItem('mailSub',true)
                 this.setState({loginStatus:true})
             }
             console.log(resp)
