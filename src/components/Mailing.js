@@ -60,11 +60,11 @@ this.updateEmail = this.updateEmail.bind(this);
     }   
 
     render() {
-        if(this.state.loginStatus == true){
-            this.returnThanks()
+        if(this.state.loginStatus){
+            return this.returnThanks()
         }
         else{
-            this.returnForm()
+          return this.returnForm()
         }
 }}
 
