@@ -6,6 +6,7 @@ class Mailing extends React.Component {
         super();
         this.state = {
            email: null,
+           loginStatus:null
         }
         this.addEmail = this.addEmail.bind(this);
         this.addEmail2 = this.addEmail2.bind(this);
@@ -27,6 +28,7 @@ this.updateEmail = this.updateEmail.bind(this);
         ).then(resp =>
             {if(resp.status == "200"){
                 localStorage.setItem('mailSub',true)
+                this.setState({loginStatus:true})
             }
             console.log(resp)
         }
