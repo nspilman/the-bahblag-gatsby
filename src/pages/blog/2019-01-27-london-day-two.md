@@ -94,6 +94,8 @@ Once we finished our beers and checked our respective social media accounts, we 
 
 On the walk to Brink Ln, I continued to marvel at how much London reminded me of New York City. We turned onto Brick Ln and I was immediately in love. The streets were full of middle eastern and Indian restaurants, with art and graffiti covering every inch. The closer we got to Rough Trade, the cooler everyone we passed looked. And by “cool” I mean a healthy combination of outfits that I thought looked good, and outfits that Claire and I are obviously too uncool to understand. 
 
+![](/img/img_1404.jpg)
+
 We got to Rough Trade, and it was basically the Mecca of cool.
 
 ![](/img/LondonRoughTradeLogo.jpg)
