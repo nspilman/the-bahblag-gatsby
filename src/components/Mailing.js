@@ -1,10 +1,8 @@
 import React from 'react'
 import axios from 'axios'
+import localStorage from "node-localstorage"
 
-if (typeof localStorage === "undefined" || localStorage === null) {
-    var LocalStorage = require('node-localstorage').LocalStorage;
-    localStorage = new LocalStorage('./scratch');
-  }
+const localStorage = new LocalStorage('./scratch');
 
 class Mailing extends React.Component {
     constructor(){
