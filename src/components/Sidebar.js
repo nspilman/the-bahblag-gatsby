@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import bahbes from "../img/theBabes.jpg"
 import Mailing from "./Mailing.js"
 
 class Sidebar extends React.Component {
@@ -8,7 +7,7 @@ render(){
     return(
                         <section id="sidebar">
 							<section id="intro">
-								<a href="#" className="logo"><img src={bahbes} alt="" /></a>
+								<a href="#" className="logo">{props.mainImg}<img src={props.imgsrc} alt="" /></a>
 								<header>
 									<h2>{this.props.header}</h2>
 								</header>

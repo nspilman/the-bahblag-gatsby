@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <Header/>
-        <Sidebar header={post.frontmatter.title}/>
+        <Sidebar header={post.frontmatter.title} imgsrc={post.frontmatter.image.childImageSharp.fluid} />
 					<div id="main">
 
 							<article className="post">

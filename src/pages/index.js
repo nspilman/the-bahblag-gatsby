@@ -6,7 +6,7 @@ import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import Indexmain from '../components/indexMain'
 import SEO from '../components/seo'
-
+import bahbes from "../img/theBabes.jpg"
 
 class BlogIndex extends React.Component {
   render() {
@@ -22,7 +22,7 @@ class BlogIndex extends React.Component {
         />
 <Header/>
 
-<Sidebar header = "Nate and Claire's Travel blog"/>
+<Sidebar header = "Nate and Claire's Travel blog" imgsrc = {bahbes}/>
 <Indexmain data = {data}/>
             
   </Layout>
