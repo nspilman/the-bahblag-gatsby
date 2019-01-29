@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Our trip begins - Day one in London
 date: 2019-01-26T08:40:03.854Z
+author: Nate
 description: >-
   A jetlagged day of exploring the city. Finsbury Park, Camden Town, delicious
   Fish and Chips.
@@ -13,8 +14,6 @@ tags:
   - ''
 draft: false
 ---
-
-
 # Eight and a Half hours later, we're in London!
 
 The redeye on Virgin Atlantic from SeaTac to London Heathrow was as painless as it could be (partially thanks to the empty middle seat in the row of three). Nate watched BlacKkKlansman (amazing) and Claire read (later post coming on the trip reading list), before each getting in the ballpark of three hours of sleep. Once we got our bags, we took the tube with our luggage from Heathrow to the Finsbury Park on the Piccadilly line. 
@@ -47,9 +46,7 @@ The Camden Market itself was full of artists and vendors, with food stalls surro
 
 ![Camden Town Hand Pies](/img/londoncamdenhandpie.jpg "Camden Town Hand Pies")
 
-
-
-## A walk through Primrose Hill and Chalk Farm 
+## A walk through Primrose Hill and Chalk Farm
 
 It was around 4pm, and we wanted to continue exploring before settling down for dinner. The jetlag was also starting to set in. We walked from Camden Town to Primrose Hill, but not before stopping to photograph the Banksy artwork along the way. 
 
