@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: London - Day 3.5 and Trip to Joburg
 date: 2019-01-29T14:21:59.743Z
+author: Claire
 description: >-
   A lazy morning and some amazing Turkish food before hopping on an 11 hour
   flight and traveling to the other end of the world.
@@ -10,13 +11,19 @@ tags:
   - London
 draft: true
 ---
-**London**
+## **London**
 
 We spent our last morning in London exploring the neighborhood around our AirBnB and getting a delicious lunch at a local Turkish restaurant.  Nate had lamb kebabs and I had hummus and we finished our meal with a glass of Turkish tea.  Out of all of the people in the restaurant, I think we were the only ones within earshot speaking English.  London was a nice reminder of just how big of a world we live in and sometimes overlook.
 
+![]()
+
 After lunch we went back to the AirBnB to grab our luggage and say goodbye to our wonderful host, Greg.  We also grabbed the remaining beer and soda we had in the fridge (I promise this is relevant).  
 
-I had been bugging Nate since the start of our trip to figure out how to lock his suitcase as I've heard of left from luggage at OR Tambo (Johannesburg's airport) and we were checking his bag.  At breakfast that morning, Nate casually told me that he was able to lock the suitcase, but now he couldn't unlock it and asked if I happened to know the code.  I didn't.  I frantically texted my parents hoping they knew the code (we borrowed the suitcase from them), but they had never used the lock.  Thus, we spent our 1.5 hour tube ride to Heathrow drinking our remaining beer and soda and trying all 999 combinations to get the suitcase to open.  We couldn't open it.  It turns out that Heathrow has a wonderful information office, where a very helpful gentleman cut the lock for us (after laughing a bit, but we were laughing too).
+I had been bugging Nate since the start of our trip to figure out how to lock his suitcase as I've heard of left from luggage at OR Tambo (Johannesburg's airport) and we were checking his bag.  At breakfast that morning, Nate casually told me that he was able to lock the suitcase, but now he couldn't unlock it and asked if I happened to know the code.  I didn't.  I frantically texted my parents hoping they knew the code (we borrowed the suitcase from them), but they had never used the lock.  Thus, we spent our 1.5 hour tube ride to Heathrow drinking our remaining beer and soda and trying all 999 combinations to get the suitcase to open. 
+
+
+
+ We couldn't open it.  It turns out that Heathrow has a wonderful information office, where a very helpful gentleman cut the lock for us (after laughing a bit, but we were laughing too).
 
 After that, we bought another lock, wrote down the combination, and checked the bag!  Heathrow security was a bit of a nightmare (your liquids have to be in ONE BAG and the bag has to be SEALED SHUT and you are loudly shamed if you don't follow directions as I know from first-hand experience) and I found myself missing the TSA agents at American airports.  Once through security, we hung out at the SkyTeam lounge until our flight to Paris.  The flight to Paris was uneventful and quick (45 minutes) and we had a long connection at CDG, but it passed quickly in the Air France lounge.
 
