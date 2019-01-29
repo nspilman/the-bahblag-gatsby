@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: London - Day 3.5 and Trip to Joburg
 date: 2019-01-29T14:21:59.743Z
+author: Claire
 description: >-
   A lazy morning and some amazing Turkish food before hopping on an 11 hour
   flight and traveling to the other end of the world.
