@@ -6,6 +6,7 @@ description: >-
   A lazy morning and some amazing Turkish food before hopping on an 11 hour
   flight and traveling to the other end of the world.
 image: /img/3d6a7692-b182-4fea-9020-c2b53e7de7ea.jpeg
+author: Claire
 tags:
   - London
 draft: true

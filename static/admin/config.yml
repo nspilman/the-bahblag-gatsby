@@ -22,7 +22,6 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Draft", name: "draft", widget: "boolean"}
 
-
   - name: "pages"
     label: "Pages"
     files:

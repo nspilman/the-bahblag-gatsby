@@ -34,7 +34,7 @@ class BlogPostTemplate extends React.Component {
 									</div>
 									<div className="meta">
 										<time className="published" datetime="2015-11-01">{post.frontmatter.date}</time>
-										<a href="#" className="author"><span className="name">{post.frontmatter.author}</span></a>
+										<a href="#" className="author"><span className="name">author: {post.frontmatter.author}</span></a>
 									</div>
 								</header>
 								<span className="image featured">
