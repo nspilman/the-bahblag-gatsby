@@ -112,6 +112,7 @@ export const pageQuery = graphql`
         title
         description
         tags
+        author
         image{
           childImageSharp {
             fluid(maxWidth: 1240 ) {
