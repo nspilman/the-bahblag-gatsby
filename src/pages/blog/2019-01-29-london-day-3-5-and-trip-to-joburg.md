@@ -6,13 +6,10 @@ author: Claire
 description: >-
   A lazy morning and some amazing Turkish food before hopping on an 11 hour
   flight and traveling to the other end of the world.
-<<<<<<< HEAD
-=======
-image: /img/london4Greg.jpg
->>>>>>> c8432eed5e8a4e1ef7f78f4ecf15fd5af0bffe66
 tags:
   - London
 draft: false
+image: /img/london3WestminsterAngel.jpg
 ---
 ## **London**
 
