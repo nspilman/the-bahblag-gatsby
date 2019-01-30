@@ -35,7 +35,13 @@ After that, we bought another lock, wrote down the combination, and checked the 
 
 ## **In Transit**
 
-Before we knew it, we were lining up to board our A380.  I'm a bit of a plane geek, so naturally I took a ton of pictures of the plane as we waited to board.  Our boarding was a bit delayed because they couldn't open the door to the upper level (seriously, nearly the entire lower level was boarded and we were standing in a mass of people waiting to board the upper level), but eventually we got to our seats and settled in.
+Before we knew it, we were lining up to board our A380.  I'm a bit of a plane geek, so naturally I took a ton of pictures of the plane as we waited to board.  
+
+![](/img/6cb9840c-65c9-4ead-948f-459357795b46.jpeg)
+
+![](/img/4363cad8-0ae5-4f76-adc2-a96c19645716.jpeg)
+
+Our boarding was a bit delayed because they couldn't open the door to the upper level (seriously, nearly the entire lower level was boarded and we were standing in a mass of people waiting to board the upper level), but eventually we got to our seats and settled in.
 
 ![](/img/london4Champagne.jpg)
 
@@ -49,8 +55,12 @@ For anyone unfamiliar with it (which I'm assuming is everyone), the Gautrain (wi
 
 ![](/img/img_1775.jpg)
 
-Once at Rosebank, we walked through the Rosebank Mall to get to our AirBnB.  The Rosebank Mall is filled with upscale shops and restaurants.  It reminds me a bit of the Grove in LA.  Our AirBnB is half a block from the mall and we felt perfectly safe walking to it.  The AirBnB itself is very nice and we have the entire apartment to ourselves.  For dinner, we walked back to the mall and had a nice steak dinner and split a bottle of wine.  It was the best steak we've both had in a long time and we're both so happy to be here.
+![](/img/d91df02d-9591-4851-bc6a-ce5636e4affd.jpeg)
+
+Once at Rosebank, we walked through the Rosebank Mall to get to our AirBnB.  The Rosebank Mall is filled with upscale shops and restaurants.  It reminds me a bit of the Grove in LA.  Our AirBnB is half a block from the mall and we felt perfectly safe walking to it.  The AirBnB itself is very nice and we have the entire apartment to ourselves.  For dinner, we walked back to the mall and had a nice steak dinner and split a bottle of wine.  It was the best steak we've both had in a long time and we're both so happy to be here. Nate ordered his with a side of “pap and chakalaka”, a local dish of a corn meal cake (the pap) and a spicy vegetable based soup (the chakalaka), which was quite good with the steak!
 
 ![](/img/img_1780.jpg)
 
 ![](/img/img_1782.jpg)
+
+A successful first evening in Rosebank, Johannesburg.
