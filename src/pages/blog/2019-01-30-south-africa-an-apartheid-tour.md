@@ -75,7 +75,7 @@ A rushed history
 
 ## **Suweto Tour**
 
-After the Apartheid museum, we drove into Suweto. Our guide was born and raised in Suweto, and stressed that while the township itself has its fair share of slums, it is full of wealthy and middle class areas as well. It's an immigration center, as many from neighboring African countries migrate to Suweto in search for jobs, a better life, etc. Bobo first took us through the upper class neighborhood of Suweto, and you can tell  the residents were doing quite well for themselves. “Think of how much water it takes to keep those lawns green”, Bono laughed.
+After the Apartheid museum, we drove into Suweto. Our guide was born and raised in Suweto, and stressed that while the township itself has its fair share of slums, it is full of wealthy and middle class areas as well. It's an immigration center, as many from neighboring African countries migrate to Suweto in search for jobs, a better life, etc. Bobo first took us through the upper class neighborhood of Suweto, and you can tell  the residents were doing quite well for themselves. “Think of how much water it takes to keep those lawns green”, Bobo laughed. He indicated that Suweto is 65% middle class, 15% upper class and the rest lower class.
 
 ![](/img/jbSuwetoUpperclass.jpg)
 
@@ -91,7 +91,7 @@ On our way to lunch, we passed a field next to the road filled with goats. There
 
 We drove to lunch, which was served at a restaurant underneath the towers of an inactive electricity plant. The plant shut down do to the pollution it was causing in the local community. The towers now serve as enormous advertisements, as well as a site to go bunji jumping. 
 
-For lunch, we were served a traditional South African bry- chicken wings, steak and delicious sausage. This was served cole 
+For lunch, we were served a traditional South African braai(“bry”) - chicken wings, steak and delicious sausage. This was served with cole slaw, pap and chakalaka. I reference it in the last post, but pap is basically the mashed potatoes of corn meal. I was easily convinced to purchase and enjoy a Soweto Gold, beer from Suweto, distributed by Heineken.
 
 ![](/img/jb2Towers.jpg)
 
@@ -101,11 +101,15 @@ For lunch, we were served a traditional South African bry- chicken wings, steak 
 
 ![](/img/jbTourFood.jpg)
 
-Food
+We then go back in the van to continue our tour!
 
 ![](/img/jbVanAndClaire.jpg)
 
-Back in the van
+\[hold for section on lower class section]
+
+
+
+We were then brought to the street where both Nelson Mandela and Desmond Tutu had houses, though never living there at the same time. We walked from the Tutu house to the Mandela house, and had to turn down many vendors selling hats and trinkets. We decided not to pay to enter the Mandela house.
 
 ![](/img/jbDTTHouse.jpg)
 
@@ -113,11 +117,13 @@ Back in the van
 
 ![](/img/jbMandelaHouse.jpg)
 
-Mandela walk
+The last part of the tour was the Hector Pietersen museum, named after the you test child slain by police in the 1976 student protest. We were met by a volunteer who told us all about the day and how the protest was organized. He explained that many of the older generations were scared and complacent, while the younger generation was angry and ready to protest for their rights. The South African government tried to cover up all events of the day, but the photographer of the photo below hid his film in his sock.
 
 ![](/img/jbDeadChild.jpg)
 
-1976 Protest
+
+
+After the museum, the tour was over. M drove us back to our Airbnb. Big thanks to our guides!!
 
 ![](/img/jbOurGuides.jpg)
 
