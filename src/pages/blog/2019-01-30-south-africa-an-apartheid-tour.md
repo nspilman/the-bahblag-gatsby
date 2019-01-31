@@ -9,8 +9,6 @@ tags:
   - SouthAfrica
 draft: true
 ---
-
-
 We woke up in the morning at 8am for our 9:30 Apartheid museum / Suweto tour. We walked down the block to the local Starbucks, and I had a standard iced Americano - our barista's nametag said "King Michael." We returned to our AirBnB just before 9:30, and were soon picked up for our tour. 
 
 ## Our tour begins
@@ -77,23 +75,23 @@ A rushed history
 
 ## **Suweto Tour**
 
-After the Apartheid museum, we drove into Suweto. Our guide was born and raised in Suweto, and stressed that while the township itself has its fair share of slums, it is full of wealthy and middle class areas as well. It's an immigration center, as many from neighboring African countries migrate to Suweto in search for jobs, a better life, etc. 
+After the Apartheid museum, we drove into Suweto. Our guide was born and raised in Suweto, and stressed that while the township itself has its fair share of slums, it is full of wealthy and middle class areas as well. It's an immigration center, as many from neighboring African countries migrate to Suweto in search for jobs, a better life, etc. Bobo first took us through the upper class neighborhood of Suweto, and you can tell  the residents were doing quite well for themselves. “Think of how much water it takes to keep those lawns green”, Bono laughed.
 
 ![](/img/jbSuwetoUpperclass.jpg)
 
 ![](/img/jbUpperClassSoweto.jpg)
 
-_Upper class area_
 
 
+On our way to lunch, we passed a field next to the road filled with goats. There were SO many goats. Bobo told us that they’re all owned by local families, and generally used for sacrificial rituals. Claire asked how families keep track of which goat is there, to which Bobo responded it’s rhe job of the shepard. We didn’t see any shepards, and many of the goats looked identical.
 
 ![](/img/jbLotsOfGoats.jpg)
 
-![](/img/jbGoatEatingBanana.jpg)
 
-_goats_
 
-__
+We drove to lunch, which was served at a restaurant underneath the towers of an inactive electricity plant. The plant shut down do to the pollution it was causing in the local community. The towers now serve as enormous advertisements, as well as a site to go bunji jumping. 
+
+For lunch, we were served a traditional South African bry- chicken wings, steak and delicious sausage. This was served cole 
 
 ![](/img/jb2Towers.jpg)
 
@@ -109,8 +107,6 @@ Food
 
 Back in the van
 
-
-
 ![](/img/jbDTTHouse.jpg)
 
 ![](/img/jbWalkTTMD.jpg)
@@ -119,13 +115,9 @@ Back in the van
 
 Mandela walk
 
-
-
 ![](/img/jbDeadChild.jpg)
 
 1976 Protest
-
-
 
 ![](/img/jbOurGuides.jpg)
 
