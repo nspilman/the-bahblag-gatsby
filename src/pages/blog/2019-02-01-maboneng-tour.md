@@ -4,7 +4,7 @@ title: 'Maboneng,Johannesburg - urban revival through art'
 date: 2019-02-01T19:02:27.037Z
 author: Nate
 description: 'A tour of one of Johannesburg's liveliest neighborhood, with our tour guide Bright'
-image: /img/jbBabesInSoweto.jpg
+image: /img/jbmbmain2.jpg
 tags:
   - SouthAfrica
 draft: true
@@ -60,7 +60,6 @@ The tea was called Ubuntu, which was a black tea with vanilla and blueberry. Ubu
 Bright used to work at the local backpacker hostle, and we dicussed how travel brings people together and encourages celebrations of differences while showing we're all more similar than we'd think. It was some kumbaya shit, in all the best ways. 
 
 ![](/img/jbmb14.jpg)
-fdfd
 ## The walk continues
 
 Bright continued on the tour, walking us down colorful streets to cool art galleries. Here are some of my favorite shots of people on the street. 
@@ -70,6 +69,25 @@ Bright continued on the tour, walking us down colorful streets to cool art galle
 ![](/img/jbmb16.jpg)
 ![](/img/jbmb17.jpg)
 ![](/img/jbmb18.jpg)
+
+The art in the galleries were a mix between local works and works by foreign visitors. Bright continued to emphasize the importance of both local and foreign artists, and would call out, for example, "This artist is from Brussels. We all think it's pretty cool that he came down here to live with us and make his art." One place he took us was called Agog, which was both a bar and an art gallery, with bars on floors 1 and 4, and galleries on floors 2 and 3. 
+
+![](/img/jbmb19.jpg)
+
+There was plenty of incredible street art as well. 
+
+![](/img/jbmb20.jpg)
+![](/img/jbmb21.jpg)
+![](/img/jbmb22.jpg)
+![](/img/jbmb23.jpg)
+
+We briefly ducked into the Marabi Club, a jazz club with amazing music and delicious food. Unfortunately nothing was going on at 3:30 in the afternoon, and we were busy that evening. That said, I'd be remiss not to mention it, as it seemed like an important cultural peice of the neighborhood. 
+
+![](/img/jbmb24.jpg)
+
+Winding down the tour, Bright told us about the community initiates to foster new artists, from "I was Shot in Joburg" (a store full of indie photography from the neighborhood) to youth schools for the fine arts, to art spaces to work and sell art. 
+
+We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at 
 
 
 
