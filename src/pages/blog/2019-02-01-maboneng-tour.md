@@ -8,7 +8,7 @@ description: >-
 image: /img/jbmbmain2.jpg
 tags:
   - SouthAfrica
-draft: true
+draft: false
 ---
 We grabbed an Uber from Constitution Hill to Maboneng for the "Culinary and Arts walk" we booked through AirBnB. Bright, our tour guide, met us at the agreed upon spot, and we grabbed lunch.  
 
@@ -90,7 +90,14 @@ Winding down the tour, Bright told us about the community initiates to foster ne
 
 ## Tour End at 
 
-We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at Global Citizen in South Africa,
+We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at Global Citizen in South Africa, they rented out the bar for their afterparty. 
 
+Bright told us that his side project is purchasing warehouse space in the area and renting it out to artists to live and create in his space. So... if any artists want to move to Maboneng, hit me up! :-) 
 
+![](/img/jbmb25.jpg)
+![](/img/jbmb26.jpg)
+
+We'd like to thank Bright, our passionate host and guide for the tour. 
+
+![](/img/jbmbBright.jpg)
 
