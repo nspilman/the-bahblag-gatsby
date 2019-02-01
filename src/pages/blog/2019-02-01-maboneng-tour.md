@@ -88,7 +88,7 @@ We briefly ducked into the Marabi Club, a jazz club with amazing music and delic
 
 Winding down the tour, Bright told us about the community initiates to foster new artists, from "I was Shot in Joburg" (a store full of indie photography from the neighborhood) to youth schools for the fine arts, to art spaces to work and sell art. 
 
-## Tour End at 
+## Tour End on the rooftop 
 
 We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at Global Citizen in South Africa, they rented out the bar for their afterparty. 
 
