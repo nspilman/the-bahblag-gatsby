@@ -3,7 +3,8 @@ templateKey: blog-post
 title: 'Maboneng,Johannesburg - urban revival through art'
 date: 2019-02-01T19:02:27.037Z
 author: Nate
-description: 'A tour of one of Johannesburg's liveliest neighborhood, with our tour guide Bright'
+description: >- 
+    'A tour of one of Johannesburg's liveliest      neighborhood, with our tour guide Bright'
 image: /img/jbmbmain2.jpg
 tags:
   - SouthAfrica
@@ -87,7 +88,9 @@ We briefly ducked into the Marabi Club, a jazz club with amazing music and delic
 
 Winding down the tour, Bright told us about the community initiates to foster new artists, from "I was Shot in Joburg" (a store full of indie photography from the neighborhood) to youth schools for the fine arts, to art spaces to work and sell art. 
 
-We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at 
+## Tour End at 
+
+We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at Global Citizen in South Africa,
 
 
 
