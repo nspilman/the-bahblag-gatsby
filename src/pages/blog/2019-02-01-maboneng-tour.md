@@ -94,10 +94,10 @@ We then ended at a roof top bar overlooking the city. Bright told us that when B
 
 Bright told us that his side project is purchasing warehouse space in the area and renting it out to artists to live and create in his space. So... if any artists want to move to Maboneng, hit me up! :-) 
 
-![](/img/jbmb25.jpg)
+![](/img/jbmb25.jpg) 
 ![](/img/jbmb26.jpg)
 
-We'd like to thank Bright, our passionate host and guide for the tour. 
+We'd like to thank Bright, our passionate host and guide for the tour! 
 
 ![](/img/jbmbBright.jpg)
 
