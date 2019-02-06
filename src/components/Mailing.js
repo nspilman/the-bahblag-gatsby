@@ -15,7 +15,7 @@ this.updateEmail = this.updateEmail.bind(this);
         e.preventDefault();
         console.log(this.state.email)
         axios.post(
-            "https://artsonthehudson.com/921gsheet/blog",
+            "https://natespilman.tech/gsheet/blog",
             {
                 "email":this.state.email
             },
