@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Travel update! Heading to Cape Toe '
+title: Travel update! Heading to Cape Town
 date: 2019-02-06T07:28:42.790Z
 author: Nate
 description: Heads up people - we’re on the move
