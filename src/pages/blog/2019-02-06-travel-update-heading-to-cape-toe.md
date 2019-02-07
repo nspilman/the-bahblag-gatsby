@@ -11,8 +11,6 @@ draft: false
 ---
 Hey all,
 
-
-
-We’ve spent the last 4 days at Muweti Bush Lodge in safari (photos and details posts coming soo ), and after a night by the airport in Johannesburg, we’re heading to Cape Town. 
+We’ve spent the last 4 days at Muweti Bush Lodge in safari (photos and details posts coming soon), and after a night by the airport in Johannesburg, we’re heading to Cape Town. 
 
 More details on our travels to come.
