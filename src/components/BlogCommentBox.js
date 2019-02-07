@@ -28,6 +28,7 @@ class BlogCommentBox extends React.Component {
         }
 
         postComment(){
+            this.setState({status:'pending'})
             Axios.post(
                 "https://natespilman.tech/blog",
                 {
@@ -35,25 +36,52 @@ class BlogCommentBox extends React.Component {
                         "text":this.state.comment,
                         "author":this.state.author,   
                 }
+            ).then(resp =>
+                {
+                    if(resp.status == "200"){
+                        this.setState({status:'posted'})
+                }
+                else{
+                    this.setState({status:"failed"})
+                }
+        })}
+    
+        showNewComment(){
+            return(
+                <div>
+                <h2>Leave a Comment</h2>
+        <div className="form-group">
+        <label for="usr">Name:</label>
+          <input type="text" onChange={this.updateAuthor} value={this.state.author} className="form-control" id="name"></input>
+        <label for="usr">Email:</label>
+          <input type="text" className="form-control" onChange={this.updateEmail} value={this.state.email} id="email"></input>
+          <textarea className="form-control" rows="5" onChange={this.updateComment} value={this.state.comment} id="comment"></textarea>
+        </div>
+        <button onClick={this.postComment}>
+            Submit Comment
+        </button>
+        </div>
             )
         }
-    
+        showPending(){
+            return(<div className="container jumboton">
+            <h2>Posting</h2>
+            </div>)
+        }
+
+        showPosted(){
+            return(<div className="container jumboton">
+            <h2>Success!</h2>
+            <h4>Your comment has been submitted for review</h4>
+            </div>)
+        }
+
 render(){
-    return( 
-        <div>
-        <h2>Leave a Comment</h2>
-<div className="form-group">
-<label for="usr">Name:</label>
-  <input type="text" onChange={this.updateAuthor} value={this.state.author} className="form-control" id="name"></input>
-<label for="usr">Email:</label>
-  <input type="text" className="form-control" onChange={this.updateEmail} value={this.state.email} id="email"></input>
-  <textarea className="form-control" rows="5" onChange={this.updateComment} value={this.state.comment} id="comment"></textarea>
-</div>
-<button onClick={this.postComment}>
-    Submit Comment
-</button>
-</div>
-    )
+    if(!this.state.status){
+        return this.showNewComment()
+    }
+    if(this.state.status==="pending")
+    
 }
 }
 
