@@ -23,19 +23,18 @@ class BlogComments extends React.Component {
 
 
     render() {
-    //     if(this.state.comments){
-    //     return(
-    //         this.state.comments.map(
-    //             comment =>{
-    //                 const {author,text,date} = comment
-    //                 return <BlogComment author = {author} date = {date} comment = {text}/>
-    //             }
-    //         )
-    //     )
-    // }
-    // else{
+        if(this.state.comments){
+        return(
+            this.state.comments.map(
+                comment =>{
+                    return <BlogComment author = {comment.author} date = {comment.date} comment = {comment.text}/>
+                }
+            )
+        )
+    }
+    else{
         return <div></div>
-    // } 
+    } 
     }
 
 }
