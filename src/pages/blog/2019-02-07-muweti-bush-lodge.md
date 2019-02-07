@@ -51,7 +51,7 @@ Now that I've talked about how close we got to some big animals, I feel like I s
 
 ![](/img/claireandlynnette.jpg)
 
-Before we left, someone mentioned to Nate that they hope he sees something (literally any animal) while on his safari (apparently people don't always see stuff).  We came into this not knowing what to expect, but we certainly saw a lot of animals.
+Before we left, someone mentioned to Nate that they hope he sees something (literally any animal) while on his safari (apparently people don't always see stuff).  We came into this not knowing what to expect, but we certainly saw a lot of animals. For some of our favorite animal photos, [check our previous post here. ](https://www.thebahblog.com/blog/2019-02-06-favorite-safari-photos/)
 
 ![](/img/nateandclairemirrorprofile.jpeg)
 
