@@ -10,7 +10,6 @@ import Img from 'gatsby-image'
 
 const mainImg = ()=>{
   const post = this.props.data.markdownRemark
-  console.log(this.props.data.id)
   return(
     <Img fluid={post.frontmatter.image.childImageSharp.fluid} className = "p5" />
   )
@@ -18,6 +17,7 @@ const mainImg = ()=>{
 
 class BlogPostTemplate extends React.Component {
   render() {
+    console.log(this.props.data.id)
     const post = this.props.data.markdownRemark
     const siteTitle = post.frontmatter.title
     const { previous, next } = this.props.pageContext
