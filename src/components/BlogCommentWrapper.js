@@ -6,10 +6,10 @@ class BlogCommentWrapper extends React.Component {
     showCommentBox(){
         if(this.props.draft === true){
             return (
-                <template>
+                <div>
             <BlogCommentBox/>
             <BlogComments/>
-            </template>
+            </div>
             )
         }
         else{

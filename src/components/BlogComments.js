@@ -17,11 +17,18 @@ class BlogComments extends React.Component {
     componentDidMount() {
         Axios.get(
             "https://natespilman.tech/blog/getComments/333"
-        ).then(resp => console.log(resp))
+        ).then(resp => this.setState({comments:resp.data.response}))
     }
 
     render() {
-        return <div></div>
+        return(
+            this.state.comments.map(
+                comment =>{
+                    const {author,text,date} = comment
+                    return <BlogComment author = {author} date = {date} comment = {text}/>
+                }
+            )
+        ) 
     }
 
 }
