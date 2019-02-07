@@ -1,4 +1,5 @@
 import React from 'react'
+import Axios from 'axios';
 
 
 
@@ -14,22 +15,29 @@ class BlogCommentBox extends React.Component {
              this.updateAuthor = this.updateAuthor.bind(this);
              this.updateEmail = this.updateEmail.bind(this);
              this.updateComment = this.updateComment.bind(this);
+             this.postComment = this.postComment.bind(this);
         }
         updateEmail(e){
             this.setState({email: e.target.value})
-            console.log(this.state.email)
         }  
         updateAuthor(e){
             this.setState({author: e.target.value})
-            console.log(this.state.author)
         }  
         updateComment(e){
             this.setState({comment: e.target.value})
-            console.log(this.state.comment)
         }
-        
-        
 
+        postComment(){
+            Axios.post(
+                "https://natespilman.tech/blog",
+                {
+                        "post":"333",
+                        "text":this.state.comment,
+                        "author":this.state.author,   
+                }
+            )
+        }
+    
 render(){
     return( 
         <div>
@@ -41,6 +49,9 @@ render(){
   <input type="text" className="form-control" onChange={this.updateEmail} value={this.state.email} id="email"></input>
   <textarea className="form-control" rows="5" onChange={this.updateComment} value={this.state.comment} id="comment"></textarea>
 </div>
+<button onClick={this.postComment}>
+    Submit Comment
+</button>
 </div>
     )
 }
