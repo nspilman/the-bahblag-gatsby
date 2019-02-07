@@ -17,8 +17,7 @@ class BlogComments extends React.Component {
     componentDidMount() {
         Axios.get(
             "https://natespilman.tech/blog/getComments/333"
-        ).then(resp => console.log(resp.data.response))
-            // this.setState({comments:resp.data.response}))
+        ).then(resp =>this.setState({comments:resp.data.response}))
          }
 
 
