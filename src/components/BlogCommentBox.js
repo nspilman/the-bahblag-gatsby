@@ -76,12 +76,20 @@ class BlogCommentBox extends React.Component {
             </div>)
         }
 
+        dynamicDisplay(){
+            if(!this.state.status){
+                return this.showNewComment()
+            }
+            if(this.state.status==="pending"){
+                return this.showPending()
+            }
+            if(this.state.status ==="posted"){
+                return this.showPosted()
+            }
+        }
+
 render(){
-    if(!this.state.status){
-        return this.showNewComment()
-    }
-    if(this.state.status==="pending")
-    
+   return this.dynamicDisplay()
 }
 }
 
