@@ -11,19 +11,35 @@ class BlogCommentBox extends React.Component {
                comment:null,
                status:null,
             }
-    //         this.addEmail = this.addEmail.bind(this);
-    // this.updateEmail = this.updateEmail.bind(this);
+             this.updateAuthor = this.updateAuthor.bind(this);
+             this.updateEmail = this.updateEmail.bind(this);
+             this.updateComment = this.updateComment.bind(this);
         }
+        updateEmail(e){
+            this.setState({email: e.target.value})
+            console.log(this.state.email)
+        }  
+        updateAuthor(e){
+            this.setState({author: e.target.value})
+            console.log(this.state.author)
+        }  
+        updateComment(e){
+            this.setState({comment: e.target.value})
+            console.log(this.state.comment)
+        }
+        
+        
+
 render(){
     return(
         
         <h2>Leave a Comment</h2>
 <div className="form-group">
 <label for="usr">Name:</label>
-  <input type="text" className="form-control" id="name"></input>
+  <input type="text" onChange={this.updateAuthor} value={this.state.author} className="form-control" id="name"></input>
 <label for="usr">Email:</label>
-  <input type="text" className="form-control" id="email"></input>
-  <textarea className="form-control" rows="5" id="comment"></textarea>
+  <input type="text" className="form-control" onChange={this.updateEmail} value={this.state.email} id="email"></input>
+  <textarea className="form-control" rows="5" onChange={this.updateComment} value={this.state.comment} id="comment"></textarea>
 </div>
     )
 }
