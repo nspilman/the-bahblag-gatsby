@@ -32,7 +32,7 @@ class BlogCommentBox extends React.Component {
             Axios.post(
                 "https://natespilman.tech/blog",
                 {
-                        "post":"333",
+                        "post":this.props.postId,
                         "text":this.state.comment,
                         "author":this.state.author,   
                 }

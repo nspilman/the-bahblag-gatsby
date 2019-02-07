@@ -7,8 +7,8 @@ class BlogCommentWrapper extends React.Component {
         if(this.props.draft === true){
             return (
                 <div>
-            <BlogCommentBox/>
-            <BlogComments/>
+            <BlogCommentBox postId = {this.props.postId}/>
+            <BlogComments postId = {this.props.postId}/>
             </div>
             )
         }

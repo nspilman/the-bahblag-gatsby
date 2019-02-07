@@ -17,7 +17,6 @@ const mainImg = ()=>{
 
 class BlogPostTemplate extends React.Component {
   render() {
-    console.log(this.props.data)
     const post = this.props.data.markdownRemark
     const siteTitle = post.frontmatter.title
     const { previous, next } = this.props.pageContext
@@ -45,7 +44,7 @@ class BlogPostTemplate extends React.Component {
                 </span>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
 							</article>
-              <BlogCommmentWrapper draft = {post.frontmatter.draft}/>
+              <BlogCommmentWrapper postId = {post.id} draft = {post.frontmatter.draft}/>
               <ul className="actions">
 									<li><a href="/" className="button">Home Page</a></li>
 								</ul>
