@@ -23,8 +23,6 @@ We had two game drives a day - one at 5:30am and one at 4:30pm. The morning driv
 
 ![](/img/sunriselandscape.jpeg)
 
-
-
 Our afternoon drives were a bit hotter but the animals were more active as the night fell on the bush. We nearly always saw giraffes, zebras, and elephants (and of course impalas). One day we came upon a newborn giraffe that still had its umbilical cord standing next to its mom. Herds of elephants were a common occurrence and one day we were treated to seeing a couple of baby elephants. They don't yet have control of their trunks and it's adorable to watch them flop around.  We also came upon an incredibly pregnant zebra.  For the sake of that poor zebra mama, I really hope she's given birth by now.
 
 ![](/img/zebrapregnant.jpg)
@@ -51,9 +49,25 @@ Before we left, someone mentioned to Nate that they hope he sees something (lite
 
 Muweti has 3 chalets that are part of the lodge itself, so it was generally us and two other couples or individuals. These were the people with whom we went on game drives, ate meals and shared the space. Claire and I honestly expected to be the young couple amongst people in their 40s and 50s, but every other group was also either in their 20s or early 30s. 
 
+Our compatriots throughout our stay were from Switzerland, Canada, Denmark, Belgium and Brazil (though the Brazilian couple stayed out in the “cottage”, and didn’t join us for dinner). English was the language everyone spoke over dinner and on game drives, though the other couples would often slip into their native languages for quick asides and “oh crap how do I say this in English?” moments. 
+
 ![](/img/selfiewithswiss.jpg)
 
+_A game drive selfie with Fabian and Kristina from Switzerland_.
+
+
+
+
+
 ![](/img/poloroid.jpg)
+
+
+
+
+
+
+
+
 
 
 
