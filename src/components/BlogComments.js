@@ -20,7 +20,9 @@ class BlogComments extends React.Component {
         ).then(resp => this.setState({comments:resp.data.response}))
     }
 
+
     render() {
+        if(this.state.comments){
         return(
             this.state.comments.map(
                 comment =>{
@@ -28,7 +30,11 @@ class BlogComments extends React.Component {
                     return <BlogComment author = {author} date = {date} comment = {text}/>
                 }
             )
-        ) 
+        )
+    }
+    else{
+        return <div></div>
+    } 
     }
 
 }
