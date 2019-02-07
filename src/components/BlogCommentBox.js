@@ -1,9 +1,14 @@
 import React from 'react'
 
+
+
 class BlogCommentBox extends React.Component {
 render(){
     return(
+        
 <div className="form-group">
+<label for="usr">Name:</label>
+  <input type="text" class="form-control" id="usr"></input>
   <label for="comment">Comment:</label>
   <textarea className="form-control" rows="5" id="comment"></textarea>
 </div>
