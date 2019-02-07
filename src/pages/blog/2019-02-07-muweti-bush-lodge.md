@@ -15,7 +15,11 @@ Sorry for the lack of posting. We just spent four days at the magical Muweti Bus
 
 ## Overview
 
+![](/img/f8d40d7e-9797-4ce2-8ec8-de604ba06d63.jpeg)
+
 Muweti is a small lodge, consisting of three tented chalets and one cottage, that is run by a wonderful couple, Mike and Laura. I found it while I was researching safari lodges and had high expectations after seeing the hundreds of 5 star reviews.  A wonderfully reviewed lodge well within our price range?  It seemed too good to be true.  However, Muweti exceeded all of our expectations and we had an absolutely wonderful time.  It's a magical place, as you'll see below, and we plan to return.
+
+![](/img/f8d40d7e-9797-4ce2-8ec8-de604ba06d63.jpeg)
 
 ## The Drives and Animals
 
@@ -55,21 +59,7 @@ Our compatriots throughout our stay were from Switzerland, Canada, Denmark, Belg
 
 _A game drive selfie with Fabian and Kristina from Switzerland_.
 
-
-
-
-
 ![](/img/poloroid.jpg)
-
-
-
-
-
-
-
-
-
-
 
 ## The Food
 
@@ -90,5 +80,11 @@ Lunch is where things got more interesting. We'd eat daily at 2pm, and the meal 
 After game drives, we'd freshen up and meet around the fire for conversation and drinks before dinner. Mike and Laura would be drinking scotch whisky, and Lynnette or Hardus would pour us drinks on request. 
 
 As magical as the game drives were, dinners were also magical. Our dinners were (in chronological order) Antelope Gulash, a traditional South African brai - the best we'd had, chicken curry and lasagna. 
+
+While each meal was spectacular - Claire says the curry was the best she’s ever had - the meal that stood out the most for me is brai. We ate steak and antelope sausage, as well as a tomato eggplant dish and other delicious sides. The steak and sausages were cooked over the fire that we sat around before dinner, with Mike explaining the superiority of the beef, as the cows were free range and chemical free. I swear, you could cut this steak with a fork. 
+
+What really made these dinner special, though, was the people. Guests from all different counties around a long table, with our hosts Mike and Laura at each head. We discussed country customs, national and international politics, animals and conservation and travel. We learned about each others lives, and sat around the dinner table for hours drinking wine. Before we knew it, it was time to turn in. We had a 530 game drive to wake up for the next morning.
+
+
 
 - - -
