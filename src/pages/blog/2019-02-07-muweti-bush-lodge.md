@@ -7,7 +7,7 @@ description: Four days in a magical land
 image: /img/landrover.jpg
 tags:
   - Muweti
-draft: true
+draft: false
 ---
 Hi all - 
 
@@ -15,13 +15,15 @@ Sorry for the lack of posting. We just spent four days at the magical Muweti Bus
 
 ## Overview
 
-![](/img/f8d40d7e-9797-4ce2-8ec8-de604ba06d63.jpeg)
+_(Intro by Claire)_
 
 Muweti is a small lodge, consisting of three tented chalets and one cottage, that is run by a wonderful couple, Mike and Laura. I found it while I was researching safari lodges and had high expectations after seeing the hundreds of 5 star reviews.  A wonderfully reviewed lodge well within our price range?  It seemed too good to be true.  However, Muweti exceeded all of our expectations and we had an absolutely wonderful time.  It's a magical place, as you'll see below, and we plan to return.
 
 ![](/img/f8d40d7e-9797-4ce2-8ec8-de604ba06d63.jpeg)
 
 ## The Drives and Animals
+
+_(by Claire)_
 
 We had two game drives a day - one at 5:30am and one at 4:30pm. The morning drive would often start out a bit slow, typically we'd only see impalas (a member of the antelope family - we literally saw thousands of these) and jackalls, but then we would stop for coffee and rusks (I'm now obsessed with these and eating one as I type this) by the river and spot hippos and crocodiles.  By the time we finished our coffee and resumed our drive, more animals would be active and we'd often see giraffes, zebras, elephants, and perhaps a few kudus. We did catch a miraculous sunrise or two. 
 
@@ -41,9 +43,13 @@ We were very satisfied with that lion sighting, but then the next night we came 
 
 Now that I've talked about how close we got to some big animals, I feel like I should say that we felt absolutely safe throughout our whole safari.  Muweti has a fence and the only animals inside the lodge property are monkeys, baboons (watch out - they steal stuff), and Roma the golden shepherd/greyhound mix.  Mike takes safety very seriously and went over all of the safety procedures.  Both Mike and our other guides (Hardus and Lynette) are very experienced and never took their eyes off of the large animals while we were observing them.  Because they were always paying close attention to their surroundings, I have full confidence that they'd be able to get us out of a situation if the animal turns on us.
 
+![](/img/romathedog.jpeg)
+
 ![](/img/hardus.jpg)
 
 ![](/img/mikelionhunt.jpg)
+
+![](/img/claireandlynnette.jpg)
 
 Before we left, someone mentioned to Nate that they hope he sees something (literally any animal) while on his safari (apparently people don't always see stuff).  We came into this not knowing what to expect, but we certainly saw a lot of animals.
 
@@ -83,8 +89,10 @@ As magical as the game drives were, dinners were also magical. Our dinners were 
 
 While each meal was spectacular - Claire says the curry was the best she’s ever had - the meal that stood out the most for me is brai. We ate steak and antelope sausage, as well as a tomato eggplant dish and other delicious sides. The steak and sausages were cooked over the fire that we sat around before dinner, with Mike explaining the superiority of the beef, as the cows were free range and chemical free. I swear, you could cut this steak with a fork. 
 
+![](/img/img_2569.jpg)
+
+
+
 What really made these dinner special, though, was the people. Guests from all different counties around a long table, with our hosts Mike and Laura at each head. We discussed country customs, national and international politics, animals and conservation and travel. We learned about each others lives, and sat around the dinner table for hours drinking wine. Before we knew it, it was time to turn in. We had a 530 game drive to wake up for the next morning.
-
-
 
 - - -
