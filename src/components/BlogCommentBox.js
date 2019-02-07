@@ -31,8 +31,8 @@ class BlogCommentBox extends React.Component {
         
 
 render(){
-    return(
-        
+    return( 
+        <div>
         <h2>Leave a Comment</h2>
 <div className="form-group">
 <label for="usr">Name:</label>
@@ -40,6 +40,7 @@ render(){
 <label for="usr">Email:</label>
   <input type="text" className="form-control" onChange={this.updateEmail} value={this.state.email} id="email"></input>
   <textarea className="form-control" rows="5" onChange={this.updateComment} value={this.state.comment} id="comment"></textarea>
+</div>
 </div>
     )
 }
