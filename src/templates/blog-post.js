@@ -17,7 +17,7 @@ const mainImg = ()=>{
 
 class BlogPostTemplate extends React.Component {
   render() {
-    console.log(this.props.data.id)
+    console.log(this.props.data)
     const post = this.props.data.markdownRemark
     const siteTitle = post.frontmatter.title
     const { previous, next } = this.props.pageContext
