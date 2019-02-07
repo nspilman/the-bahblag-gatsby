@@ -55,6 +55,8 @@ Muweti has 3 chalets that are part of the lodge itself, so it was generally us a
 
 ![](/img/poloroid.jpg)
 
+
+
 ## The Food
 
 The food was delicious - and some meals, especially dinners, were quite interesting. I ate infinitely more antelope that I'd ever eaten before - I'll tell you. 
@@ -67,7 +69,7 @@ We'd eat breakfast at 9am after our game drives. Breakfast fare was fairly stand
 
 **Lunch**
 
-Lunch is where things got more interesting. We'd eat daily at 2pm, and the meal was always different. Our first day, the main dish was a cheese platter and biltong, which is basically a South African cousin of Jerky. One day we ate ostrich pies. The other two days were more standard - a delicious steak salad and sausage quiches. The steak itself was spectacular - more about that at dinner. 
+Lunch is where things got more interesting. We'd eat daily at 2pm, and the meal was always different. Our first day, the main dish was a cheese platter and biltong, which is basically a South African cousin of Jerky. One day we ate ostrich pies. The other two days were more standard - a delicious steak salad and sausage quiches. The steak itself was spectacular - more about that at dinner. In addition, there was always salad and bread, which was often what Claire had. 
 
 **Dinner **
 
