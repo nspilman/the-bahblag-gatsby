@@ -10,6 +10,7 @@ import Img from 'gatsby-image'
 
 const mainImg = ()=>{
   const post = this.props.data.markdownRemark
+  console.log(this.props.data.id)
   return(
     <Img fluid={post.frontmatter.image.childImageSharp.fluid} className = "p5" />
   )
