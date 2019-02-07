@@ -11,8 +11,8 @@ class BlogCommentBox extends React.Component {
                comment:null,
                status:null,
             }
-            this.addEmail = this.addEmail.bind(this);
-    this.updateEmail = this.updateEmail.bind(this);
+    //         this.addEmail = this.addEmail.bind(this);
+    // this.updateEmail = this.updateEmail.bind(this);
         }
 render(){
     return(
