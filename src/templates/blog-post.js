@@ -5,9 +5,11 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
+import BlogCommmentWrapper from '../components/BlogCommentWrapper'
 import Img from 'gatsby-image'
 
 const mainImg = ()=>{
+  const post = this.props.data.markdownRemark
   return(
     <Img fluid={post.frontmatter.image.childImageSharp.fluid} className = "p5" />
   )
@@ -42,6 +44,7 @@ class BlogPostTemplate extends React.Component {
                 </span>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
 							</article>
+              <BlogCommmentWrapper draft = {post.frontmatter.draft}/>
               <ul className="actions">
 									<li><a href="/" className="button">Home Page</a></li>
 								</ul>
@@ -113,6 +116,7 @@ export const pageQuery = graphql`
         description
         tags
         author
+        draft
         image{
           childImageSharp {
             fluid(maxWidth: 1240 ) {
