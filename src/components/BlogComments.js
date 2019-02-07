@@ -17,24 +17,25 @@ class BlogComments extends React.Component {
     componentDidMount() {
         Axios.get(
             "https://natespilman.tech/blog/getComments/333"
-        ).then(resp => this.setState({comments:resp.data.response}))
-    }
+        ).then(resp => console.log(resp.data.response))
+            // this.setState({comments:resp.data.response}))
+         }
 
 
     render() {
-        if(this.state.comments){
-        return(
-            this.state.comments.map(
-                comment =>{
-                    const {author,text,date} = comment
-                    return <BlogComment author = {author} date = {date} comment = {text}/>
-                }
-            )
-        )
-    }
-    else{
+    //     if(this.state.comments){
+    //     return(
+    //         this.state.comments.map(
+    //             comment =>{
+    //                 const {author,text,date} = comment
+    //                 return <BlogComment author = {author} date = {date} comment = {text}/>
+    //             }
+    //         )
+    //     )
+    // }
+    // else{
         return <div></div>
-    } 
+    // } 
     }
 
 }
