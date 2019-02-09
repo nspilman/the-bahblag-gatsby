@@ -7,7 +7,7 @@ description: 'Our action packed, sun kissed (and sunburnt) first few days in Cap
 image: /img/img_3407.jpg
 tags:
   - Cape Town
-draft: true
+draft: false
 ---
 ## Arriving in Cape Town
 
