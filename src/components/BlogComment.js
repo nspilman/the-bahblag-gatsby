@@ -7,7 +7,7 @@ class BlogComment extends React.Component {
                 <div className="row">
                     <div className="col-sm-2 py-2">
                         <p>{this.props.author}</p>
-                        <p>{this.props.date}</p>
+                        <p>{this.props.date.slice(0,9)}</p>
                     </div>
                     <div className="col-sm-9">
                         {this.props.comment}
