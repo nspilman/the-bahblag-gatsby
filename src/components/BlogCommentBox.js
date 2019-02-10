@@ -49,7 +49,7 @@ class BlogCommentBox extends React.Component {
         showNewComment(){
             return(
                 <div>
-                <h2>Leave a Comment</h2>
+                <h4>Leave a Comment</h4>
         <div className="form-group">
         <label for="usr">Name:</label>
           <input type="text" onChange={this.updateAuthor} value={this.state.author} className="form-control" id="name"></input>
@@ -65,14 +65,13 @@ class BlogCommentBox extends React.Component {
         }
         showPending(){
             return(<div className="container jumboton">
-            <h2>Posting</h2>
+            <h4>Posting...</h4>
             </div>)
         }
 
         showPosted(){
             return(<div className="container jumboton">
-            <h2>Success!</h2>
-            <h4>Your comment has been submitted for review</h4>
+            <h4> Thanks for post :-)</h4>
             </div>)
         }
 

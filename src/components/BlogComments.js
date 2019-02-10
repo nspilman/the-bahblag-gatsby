@@ -14,14 +14,12 @@ class BlogComments extends React.Component {
         //  this.postComment = this.postComment.bind(this);
     }
 
-    componentDidMount() {
+
+    render() {
         Axios.get(
             `https://natespilman.tech/blog/getComments/${this.props.postId}`
         ).then(resp =>this.setState({comments:resp.data.response}))
-         }
 
-
-    render() {
         if(this.state.comments){
         return(
             this.state.comments.map(
