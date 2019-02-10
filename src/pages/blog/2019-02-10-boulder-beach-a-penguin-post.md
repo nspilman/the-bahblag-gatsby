@@ -9,7 +9,7 @@ tags:
   - Penguins
 draft: false
 ---
-We toured the Cape of Good Hope, but not before stopping off in Simonstown. We say so many penguins, we thought it deserved its own post :-)
+We toured the Cape of Good Hope, but not before stopping off in Simonstown. We saw so many penguins, we thought it deserved its own post :-)
 
 ![](beachFront.jpg)
 ![](penguin1.jpg)
