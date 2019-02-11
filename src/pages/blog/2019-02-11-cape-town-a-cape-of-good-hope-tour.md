@@ -45,16 +45,20 @@ We were happy with how we spent our time. We enjoyed the beautiful day and until
 We then drove up the windy road to Chapman's Peak, where we stopped for photos and a light breakfast. Directly behind us across the water is Hout Bay, where we'd just been. 
 
 ![](ChapBahbes.jpg)
-<img src="https://scontent.fcpt8-1.fna.fbcdn.net/v/t1.0-9/51855856_10156247789720748_1324471410466226176_o.jpg?_nc_cat=111&_nc_ht=scontent.fcpt8-1.fna&oh=92187a324234225d1b7b8781abefe97e&oe=5CF10149">
+<img src="https://scontent.fcpt8-1.fna.fbcdn.net/v/t1.0-9/51855856_10156247789720748_1324471410466226176_o.jpg?_nc_cat=111&_nc_ht=scontent.fcpt8-1.fna&oh=92187a324234225d1b7b8781abefe97e&oe=5CF10149" style="max-width:75vw;height:auto;">
 
 ## Boulder's Beach and a stop for lunch
 
+After Chapman's Peak, we were on to Simonstown, where we'd hang out with the penguins at Boulder's Beach. Mark was hitting us with trivia and history left and right. We learned the color coded flag lingo for reporting great white sharks, and that Simonstown was named after a British explorer who wanted Cape Town named after him but the powers that be said no, but we'll name Simonstown after you, hence Simonstown (yes, I'd get a C- on a high school history paper for this explanation). 
 
+We stopped in Simonstown, and paid the entrance fee to Boulder's Beach to see the penguins. Penguins first migrated to Boulder's beach in the 80s, and have since reproduced into a sizeable colony. 
 
 ![](BouldersSign.jpg)
 ![](BouldersView.jpg)
 ![](penguinSelfie.jpg)
 ![](lotsOfPenguins.jpg)
+
+<a href = "https://www.thebahblog.com/blog/2019-02-10-boulder-beach-a-penguin-post/"> More penguin photos can be found here!</a>
 
 ![](southAfricanLingo.jpg)
 ![](whaleBones.jpg)
