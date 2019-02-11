@@ -15,7 +15,7 @@ draft: false
 
 Claire and I took a full day tour down the Cape of Good Hope, the most Southwestern point of Africa. Per the map below, we started in Cape Town, took the bus down the western side of the peninsula to Hout Bay, before crossing the peninsula to Simonstown, and then down to the Cape of Good Hope. The Cape is historically significant, as it’s the point that Europeans would been to pass on trade routes with India.
 
-<img src = "http://www.estarte.me/wp-content/uploads/cape-of-good-hope-on-world-map-wildlife-trails-unblazed.jpg" style=“max-width:100vw; height:auto;”>
+<img src= "http://www.estarte.me/wp-content/uploads/cape-of-good-hope-on-world-map-wildlife-trails-unblazed.jpg" style=“max-width:100vw; height:auto;”>
 
 Our guide was Mark on the left - a friendly, chatty and informative Cape Town native. Freddy on the right was our driver, and was full of songs and play-on-words. 
 ![](ourGuides.jpg)
