@@ -4,23 +4,23 @@ title: Cape Town - A Cape of Good Hope Tour
 date: 2019-02-11T06:05:28.673Z
 author: Nate
 description: >-
-  We hopped on the BazBus and took a tour of the Cape, ending at the most Southwestern point of the African continent
+  We hopped on the BazBus and took a tour of the Cape, ending at the most
+  Southwestern point of the African continent
 image: /img/coghsign.jpg
 tags:
   - Cape of Good Hope
 draft: false
 ---
-
 ## Overview of the Tour
 
-Claire and I took a full day tour down the Cape of Good Hope, the most Southwestern point of Africa. Per the map below, we started in Cape Town, took the bus down the western side of the peninsula to Hout Bay, before crossing the peninsula to Simonstown, and then down to the cape of Good Hope. 
+Claire and I took a full day tour down the Cape of Good Hope, the most Southwestern point of Africa. Per the map below, we started in Cape Town, took the bus down the western side of the peninsula to Hout Bay, before crossing the peninsula to Simonstown, and then down to the Cape of Good Hope. The Cape is historically significant, as it’s the point that Europeans would been to pass on trade routes with India.
 
-<img src = "http://www.estarte.me/wp-content/uploads/cape-of-good-hope-on-world-map-wildlife-trails-unblazed.jpg">
+<img src = "http://www.estarte.me/wp-content/uploads/cape-of-good-hope-on-world-map-wildlife-trails-unblazed.jpg" style=“max-width:100vw; height:auto;”>
 
 Our guide was Mark on the left - a friendly, chatty and informative Cape Town native. Freddy on the right was our driver, and was full of songs and play-on-words. 
 ![](ourGuides.jpg)
 
-#The tour begins and Hout Bay
+\#The tour begins and Hout Bay
 
 We were two of seven Americans on the tour, as well as eleven Brazilians. Mark spoke as much Portugues as he knew, which wasn't a lot, and only one of the eleven Brazilians spoke English. Mark introduced the day while the one English speaking Brazilian translated as fast as she could. 
 
@@ -63,7 +63,7 @@ We stopped in Simonstown, and paid the entrance fee to Boulder's Beach to see th
 We were then off to Cape of Good Hope National Park. Once we were in the park, we stopped for a quick lunch of sandwiches and salad at an information center. This information center had old whale bones in the courtyard. 
 ![](whaleBones.jpg)
 
-##Cape Point  
+\##Cape Point  
 
 After lunch, it was time for some hiking! Before getting to Cape Point, the site of a functioning lighthouse, Mark stopped to tell us how big of a risk Baboons are. In short, Baboons are jerks who will steal your food. If your backpack as food in it, they'll steal your backpack. They're also smart enough to be crafty, so beware. To make matters worse, they have sharp claws and teeth, and may carry rabies. Don't mess with the baboons. 
 
@@ -84,7 +84,6 @@ We made our way to the top, enjoyed the breathtaking views and posed for some ph
 It was then time to walk back down. 
 ![](capePointTrail.jpg)
 
-
 We stopped to laugh at this couple orchestrating the shot below. 
 ![](CapePointPeoplePosing.jpg)
 
@@ -98,7 +97,7 @@ It was time to begin our trek to the Cape of Good Hope, but were momentarily sid
 
 The Cape hike was optional, and only the Americans opted to do the hike. The Brazilians rode in the bus with Freddy, as there is a road that goes around the back of the Cape to the tip. 
 
-##Cape of Good Hope
+\##Cape of Good Hope
 
 We walked along the Cape, enjoying beautiful sights of a beach below.
 
@@ -118,6 +117,3 @@ We wanted our photo with the sign, and waited on line behind a large Chinese tou
 
 ![](coghSighChineseTourists.jpg)
 ![](coghSign.jpg)
-
-
-
