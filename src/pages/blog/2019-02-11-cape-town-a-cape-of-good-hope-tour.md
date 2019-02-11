@@ -11,9 +11,32 @@ tags:
   - Cape of Good Hope
 draft: true
 ---
+![](ourGuides.jpg)
+
+![](HBBay.jpg)
+![](HBVendors.jpg)
+![](HBClaire.jpg)
+![](HBJellyFish.jpg)
+![](HBmorningSeal.jpg)
+![](HBSelfie.jpg)
+![](HBSUP.jpg)
+
+
+![](ChapAfricaFlag.jpg)
+![](ChapBahbes.jpg)
 
 ![](BouldersSign.jpg)
 ![](BouldersView.jpg)
+![](penguinSelfie.jpg)
+![](lotsOfPenguins.jpg)
+
+
+![](southAfricanLingo.jpg)
+![](whaleBones.jpg)
+
+![](doNotFeedBaboons.jpg)
+
+![](capePointSign.jpg)
 ![](capePointBaboon.jpg)
 ![](capePointBaboon2.jpg)
 ![](CapePointBahbes.jpg)
@@ -22,10 +45,8 @@ draft: true
 ![](capePointFlags.jpg)
 ![](capePointLighthouse.jpg)
 ![](CapePointPeoplePosing.jpg)
-![](capePointSign.jpg)
+
 ![](capePointTrail.jpg)
-![](ChapAfricaFlag.jpg)
-![](ChapBahbes.jpg)
 ![](coghBabeAndBeach.jpg)
 ![](coghBahbesAndBeach.jpg)
 ![](coghBahbesOnCape.jpg)
@@ -36,17 +57,6 @@ draft: true
 ![](coghOstrich.jpg)
 ![](coghSighChineseTourists.jpg)
 ![](coghSign.jpg)
-![](doNotFeedBaboons.jpg)
-![](HBBay.jpg)
-![](HBClaire.jpg)
-![](HBJellyFish.jpg)
-![](HBmorningSeal.jpg)
-![](HBSelfie.jpg)
-![](HBSUP.jpg)
-![](HBVendors.jpg)
-![](longBeach.jpg)
-![](lotsOfPenguins.jpg)
-![](ourGuides.jpg)
-![](penguinSelfie.jpg)
-![](southAfricanLingo.jpg)
-![](whaleBones.jpg)
+
+
+
