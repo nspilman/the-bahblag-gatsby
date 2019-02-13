@@ -5,7 +5,7 @@ date: 2019-02-12T06:05:28.673Z
 author: Nate
 description: >-
 We took a ride out with our tour guide, Bruce, to four wineries in the Paarl, Franschhoek and Stellenbosch regions. We drank a lot, and learned even more. 
-image: /img/capeTown/fvCheers.jpg
+image: /img/jbmbmain2.jpg
 tags:
   - Stellenbosch
 draft: false
