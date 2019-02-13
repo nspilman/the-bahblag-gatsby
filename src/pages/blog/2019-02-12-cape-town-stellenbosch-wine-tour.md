@@ -4,10 +4,10 @@ title: Cape Town - Stellenbosch Wine Tour
 date: 2019-02-12T06:05:28.673Z
 author: Nate
 description: >-
-We took a ride out with our tour guide, Bruce, to four wineries in the {HOLD} and Stellenbosch regions. We drank a lot, and learned even more. 
-image: /img/coghsign.jpg
+We took a ride out with our tour guide, Bruce, to four wineries in the Paarl, Franschhoek and Stellenbosch regions. We drank a lot, and learned even more. 
+image: /img/fvCheers.jpg
 tags:
-  - Cape of Good Hope
+  - Stellenbosch
 draft: false
 ---
 
