@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Maboneng, Johannesburg - urban revival through art'
+title: 'Maboneng,Johannesburg - urban revival through art'
 date: 2019-02-01T19:02:27.037Z
 author: Nate
-description: >-
-  A tour of one of Johannesburg's liveliest      neighborhood, with our tour
-  guide Bright
+description: >- 
+    'A tour of one of Johannesburg's liveliest      neighborhood, with our tour guide Bright'
 image: /img/jbmbmain2.jpg
 tags:
   - SouthAfrica
@@ -24,6 +23,7 @@ I don't see myself getting tired of this sort of meal. While we ate, the most in
 ![](/img/jbmb1.jpg)
 ![](/img/jbmb2.jpg)
 
+
 ## The walk begins
 
 Bright started off our tour explaining the Maboneng neighborhood. This neighborhood has become very trendy very recently. He took us back to 1994 - when apartheid ended, white folks in the inner city of Johannesburg fled in fear of black people retaliating against their previous oppressor. This white flight left a large resource and industry vacuum in the inner city, fostering poverty and crime. 
@@ -37,6 +37,7 @@ In 2009, an artist moved into an empty warehouse owned by his father in Maboneng
 Bright took us into his favorite business and walked us through his favorite neighborhoods. He applauded the creativity of the members of the community, continuing the stress that human creativity is what brings us all together. 
 
 A number of business storefronts were built out of storage containers. Bright informed us that Johannesburg has a surplus of shipping containers, and business owners were able to get a great deal on them, converting them into storefronts. 
+
 
 ![](/img/jbmb6.jpg)
 ![](/img/jbmb7.jpg)
@@ -60,10 +61,10 @@ The tea was called Ubuntu, which was a black tea with vanilla and blueberry. Ubu
 Bright used to work at the local backpacker hostle, and we dicussed how travel brings people together and encourages celebrations of differences while showing we're all more similar than we'd think. It was some kumbaya shit, in all the best ways. 
 
 ![](/img/jbmb14.jpg)
-
 ## The walk continues
 
 Bright continued on the tour, walking us down colorful streets to cool art galleries. Here are some of my favorite shots of people on the street. 
+
 
 ![](/img/jbmb15.jpg)
 ![](/img/jbmb16.jpg)
@@ -87,16 +88,16 @@ We briefly ducked into the Marabi Club, a jazz club with amazing music and delic
 
 Winding down the tour, Bright told us about the community initiates to foster new artists, from "I was Shot in Joburg" (a store full of indie photography from the neighborhood) to youth schools for the fine arts, to art spaces to work and sell art. 
 
-## Tour End on the rooftop
+## Tour End on the rooftop 
 
 We then ended at a roof top bar overlooking the city. Bright told us that when Beyonce and Jay-Z performed at Global Citizen in South Africa, they rented out the bar for their afterparty. 
 
 Bright told us that his side project is purchasing warehouse space in the area and renting it out to artists to live and create in his space. So... if any artists want to move to Maboneng, hit me up! :-) 
 
-![](/img/jmbm25.jpg)
-
-
+![](/img/jbmb25.jpg) 
+![](/img/jbmb26.jpg)
 
 We'd like to thank Bright, our passionate host and guide for the tour! 
 
-![](/img/jmbmbright.jpg)
+![](/img/jbmbBright.jpg)
+
