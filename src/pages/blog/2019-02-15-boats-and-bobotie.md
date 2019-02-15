@@ -6,14 +6,12 @@ author: Claire
 description: >-
   A tour of Robben Island, a stop for traditional Cape Town cuisine, Mojo Market
   and a goodbye to Cape Town
-image: /img/capeTown/fromBusWelcome.jpb
+image: /img/frombuswelcome.jpg
 tags:
   - Robben
 draft: false
 ---
-
 We started Wednesday with a tour of Robben Island.  Robben Island is in Table Bay, about 4 miles off of Cape Town.  It's been used as prison for most of its history, though it was a leper colony at one point.  During Apartheid, it held Nelson Mandela, Kgalema Motlanthe, and Jacob Zuma at various points in time.  Today, you can take a boat from Cape Town and tour the island.
-
 
 The boat ride out to the island was about 40 minutes, but it felt closer to four hours with the rocky seas.  We were some of the last to board the ferry and ended up sitting facing backwards in the lower deck.  The boat was swaying side to side for most of the ride and I was reminded again of how miserable it is to be seasick.  I spent most of the ride leaning against Nate with my eyes closed, counting down to when the boat ride would be over.
 
