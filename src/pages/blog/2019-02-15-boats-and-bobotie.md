@@ -6,7 +6,7 @@ author: Claire
 description: >-
   A tour of Robben Island, a stop for traditional Cape Town cuisine, Mojo Market
   and a goodbye to Cape Town
-image: img/capeTown/fromBusWelcome.jpg
+image: /img/2bc08eeb-ad8d-4882-8e56-0110fa6dc573.png
 tags:
   - Robben
 draft: false
