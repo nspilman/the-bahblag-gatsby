@@ -3,11 +3,13 @@ templateKey: blog-post
 title: The Rest of Our Time in Madrid
 date: 2019-02-21T10:20:11.885Z
 author: Nate
-description: 'Sunday, Tuesday and Wednesday morning in the bustling Spanish Capitol. I talk a lot about food in this one.'
-image: /img/0b336195-e66b-437b-86bb-0ae7c47b52d8.jpeg
+description: >-
+  Sunday, Tuesday and Wednesday morning in the bustling Spanish Capitol. I talk
+  a lot about food in this one.
+image: /img/palaciorealoutside.jpg
 tags:
   - Madrid
-draft: true
+draft: false
 ---
 
 After studying abroad in Sevilla, I wasn't sure what I'd think about Mardid. I was concerned it would eb as more sterile version of the Spain I love - and fortunately I was wrong. It was simply a bigger and more abundant version :-) 
