@@ -93,14 +93,21 @@ The two sweet grapes are used to make Pedro Ximenes, the desert wine of the Sher
 
 Lastly, many places combine Oloroso and Pedro Ximenes to produce the "Cream" sherry, a sweet but not-as-sweet-as-Pedro-Ximenez-sweet wine. 
 
-
-
 ## The tasting 
+After the tour of the facility, we tasted one of each type of sherry, produced by Bodegas Tradiciòn, along with an array of salami, cashews, manchego cheese, olives stuffed and sardines, and tuna.
 
 [](img/sevilla/tourTasting.jpg)
 
+We did the tasting from the most dry to most sweet, in the other of Fino, Palo Cortado, Amontillado, Oloroso, Crema and Pedro Ximenez. I assisted Claire and in finishing the dry wines (and I sure wasn't complaining) but somehow she was able to finish the sweet wines herself. Go figure :-) 
+
+[](img/sevilla/tourWineCloseup.jpg)
+
 ## An Unexpected Art Tour
+After the tour, we were invited into Bodegas Tradiciòn's art gallery. The winery owners also fancy themselves art collectors, and recently their collection became a certified Spanish art museum. 
+
+[](img/sevilla/tourArtVelasquez.jpg)
 [](img/sevilla/tourArtElGreco.jpg)
+
 [](img/sevilla/tourArtGranada.jpg)
 
 [](img/sevilla/plazaFountain.jpg)
@@ -113,4 +120,3 @@ Lastly, many places combine Oloroso and Pedro Ximenes to produce the "Cream" she
 [](img/sevilla/trainStation.jpg)
 
 
-After the tour of the facility, we tasted one of each type of sherry, produced by Bodegas Tradiciòn, along with an array of salami, cashews, manchego cheese, olives stuffed and sardines, and tuna.
