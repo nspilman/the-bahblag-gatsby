@@ -38,11 +38,11 @@ Thursday started with breakfast at our AirBnb and then a walking tour during the
 
 Below are some photos from the walk. 
 
-![](/img/sevilla/walkingTour1.jpg)
-![](/img/sevilla/walkingTour2.jpg)
-![](/img/sevilla/walkingTour3.jpg)
-![](/img/sevilla/walkingTour4.jpg)
-![](/img/sevilla/walkingTour5.jpg)
+![](/img/sevilla/walkingTourSev1.jpg)
+![](/img/sevilla/walkingTourSev2.jpg)
+![](/img/sevilla/walkingTourSev3.jpg)
+![](/img/sevilla/walkingTourSev4.jpg)
+![](/img/sevilla/walkingTourSev5.jpg)
 
 We did some more walking around and saw Metropol Parasol, locally known as "Las Setas", The Mushrooms in English. 
 
