@@ -103,20 +103,31 @@ We did the tasting from the most dry to most sweet, in the other of Fino, Palo C
 [](img/sevilla/tourWineCloseup.jpg)
 
 ## An Unexpected Art Tour
-After the tour, we were invited into Bodegas Tradiciòn's art gallery. The winery owners also fancy themselves art collectors, and recently their collection became a certified Spanish art museum. 
+After the tour, we were invited into Bodegas Tradiciòn's art gallery. The winery owners also fancy themselves art collectors, and recently their collection became a certified Spanish art museum. The collection included famous artists like Velazquez and El Greco, but of which we saw at the Prado and other museums in Madrid. 
 
 [](img/sevilla/tourArtVelasquez.jpg)
 [](img/sevilla/tourArtElGreco.jpg)
 
+What I found even more impressive was the painting of the defeating Moors handing over control to the city of Granada to the Catholic Kings of Spain in 1492. There is a copy of this painting in the Granada city hall, and its likeness is depicted in the Granada section of the Plaza De España in Sevilla. This winery has the original. 
 [](img/sevilla/tourArtGranada.jpg)
 
-[](img/sevilla/plazaFountain.jpg)
-[](img/sevilla/renfeBack.jpg)
-[](img/sevilla/renfeSunset.jpg)
+# Wine on the Square and our way back to Sevilla
+
+We had a few hours to kill before our train, and we had nothing to do but return to Plaza Aranal and put all of our new sherry knowledge to the test. 
+I ordered an Amontillado and then an Oloroso. Claire enjoyed a Crema. 
+
 [](img/sevilla/sherryOnSquare.jpg)
 [](img/sevilla/sherryOnSquare2.jpg)
 
-[](img/sevilla/squareDoggo.jpg)
-[](img/sevilla/trainStation.jpg)
+We sat and enjoyed our Sherry, enjoyed the sites and sounds of Spanish life, and took photos of adorable dogs. 
 
+[](img/sevilla/plazaFountain.jpg)
+[](img/sevilla/squareDoggo.jpg)
+
+And just like that, it was time to head back to Sevilla. 
+
+[](img/sevilla/renfeBack.jpg)
+[](img/sevilla/renfeSunset.jpg)
+
+I'll let you guess where we ate upon returning to Sevilla. I'll give you 100 guesses, all in little sandwich form. 
 
