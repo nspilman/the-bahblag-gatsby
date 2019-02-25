@@ -4,12 +4,11 @@ title: Our first few days in Sevilla (Including the Cathedral)
 date: 2019-02-23T18:34:13.996Z
 author: Claire
 description: 'Wednesday and Thursday in Sevilla, including a walking tour and the cathedral.'
-image: /img/2a54a939-239a-4479-88b8-66f2ac6b70de.jpeg
+image: /img/dsc_0196.jpg
 tags:
   - Sevilla
 draft: true
 ---
-
 We arrived in Sevilla on Wednesday afternoon and it's currently Saturday evening as I write this (and it likely won't be published until Sunday).  Needless to say, we've kept ourselves busy by exploring this amazing city, drinking lots of wine and eating lots of tapas, and walking off all of the wine and tapas.
 
 Upon arriving on Wednesday afternoon, we dropped our bags at the AirBnB (which is lovely - we have the entire apartment to ourselves) and decided to take a stroll.  Sevilla is magical, especially at night.  We're staying only a couple blocks from the cathedral and my first introduction to it was seeing it lit up at night. 
