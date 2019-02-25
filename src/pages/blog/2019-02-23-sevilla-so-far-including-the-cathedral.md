@@ -11,7 +11,16 @@ draft: true
 ---
 We arrived in Sevilla on Wednesday afternoon and it's currently Saturday evening as I write this (and it likely won't be published until Sunday).  Needless to say, we've kept ourselves busy by exploring this amazing city, drinking lots of wine and eating lots of tapas, and walking off all of the wine and tapas.
 
-Upon arriving on Wednesday afternoon, we dropped our bags at the AirBnB (which is lovely - we have the entire apartment to ourselves) and decided to take a stroll.  Sevilla is magical, especially at night.  We're staying only a couple blocks from the cathedral and my first introduction to it was seeing it lit up at night. 
+Upon arriving on Wednesday afternoon, and decided to walk our bags from the train station to the airBnB. We passed the old roman aquaduct before entering the old part 
+of the city. 
+
+![](/img/sevilla/romanAquaduct.jpg)
+
+The sidewalks got skinnier and skinner, but we survived the schlep. 
+
+![](/img/sevilla/nateBags.jpg)
+
+We dropped our bags at the AirBnB (which is lovely - we have the entire apartment to ourselves) and decided to take a stroll.  Sevilla is magical, especially at night.  We're staying only a couple blocks from the cathedral and my first introduction to it was seeing it lit up at night. 
 
 ![](/img/sevilla/cathedralNight.jpg)
 
