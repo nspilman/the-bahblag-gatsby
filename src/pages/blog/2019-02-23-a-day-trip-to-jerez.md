@@ -7,7 +7,7 @@ description: 'A Friday of high brow Sherry education, or a travelers'' excuse to
 image: /img/dsc_0476.jpg
 tags:
   - Jerez
-draft: true
+draft: false
 ---
 On Friday we had a 10:40 train from Sevilla San Bernardo station to Jerez de la Frontera, a town about an hour south known for their Sherry varierty of wine. The word "Sherry" in Spanish is actually "Jerez", pronounced "heh-res" (or "heh-reth" depending on where you're from), but the English butchered the word and called it Sherry instead. Either way, we were off to a Sherry tasting!
 
