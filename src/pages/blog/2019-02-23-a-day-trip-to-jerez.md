@@ -37,12 +37,12 @@ While the train station itself was beautiful, the area by the train station was 
 
 The charm returned once we got to the main square, Plaza Arenal, but the place looked less and less maintained the closer we got to the sherry tasing. Lots of beautiful buildings with cracks in the walls. 
 
-[](img/sevilla/walkingAroundCathedral.jpg)
-[](img/sevilla/walkingAroundChurch.jpg)
-[](img/sevilla/walkingAroundWhitePlaza.jpg)
+![](img/sevilla/walkingAroundCathedral.jpg)
+![](img/sevilla/walkingAroundChurch.jpg)
+![](img/sevilla/walkingAroundWhitePlaza.jpg)
 
 and of course, lots of catholic symbolism - 
-[](img/sevilla/walkingAroundMary.jpg)
+![](img/sevilla/walkingAroundMary.jpg)
 
 ## Lunch in Jerez
 
@@ -50,29 +50,28 @@ We sat down to lunch just off Plaza Arenal at a place Claire found online. We sa
 
 We got spanish tortilla, a tapa of chorizo stewed in oloroso sherry (we were soon to learn what that meant) and a full plate of jamon iberico. This was probably the best jamon we've yet had in Spain - we barely had to chew it. 
 
-[](img/sevilla/lunchBravas.jpg)
-[](img/sevilla/lunchJamon.jpg)
-[](img/sevilla/lunchMeat.jpg)
+![](img/sevilla/lunchBravas.jpg)
+![](img/sevilla/lunchJamon.jpg)
+![](img/sevilla/lunchMeat.jpg)
 
 We enjoyed the stray kitten in the alley way.
-[](img/sevilla/lunchKitty.jpg)
+![](img/sevilla/lunchKitty.jpg)
 
 # The Sherry Tour
 
 We got to the English speaking tour at Bodegas Tradiciòn, and were greeted by our very knowledgeable Austrain tourguide, whose name I regret to say I'll never remember. Regardless, she greeted us and our tourmates, and we waited in the lovely courtyard for the tour to begin. Claire and I were the youngest members of our tour by about 30 years. 
 
-[](img/sevilla/tourPlaza.jpg)
+![](img/sevilla/tourPlaza.jpg)
 
 Our tour guide explained to us that Bodegas Tradiciòn specializes in small batch sherries that are aged significantly longer than most. 
 
-[](img/sevilla/tourBodegasTadicion.jpg)
+![](img/sevilla/tourBodegasTadicion.jpg)
 
 To be a true "Jerez", the grapes must be grown within the Jerez Triangle, a geographic region spanning from Jerez to two other Anadalucian towns. 
 
-[](img/sevilla/sherryTiangle.jpg)
+![](img/sevilla/sherryTiangle.jpg)
 
 There are all of three wine grape used for Sherry, one for the dry varietals and two for the sweet. 
-
 
 ## Making Sherry and Sherry Styles
 
@@ -96,38 +95,38 @@ Lastly, many places combine Oloroso and Pedro Ximenes to produce the "Cream" she
 ## The tasting 
 After the tour of the facility, we tasted one of each type of sherry, produced by Bodegas Tradiciòn, along with an array of salami, cashews, manchego cheese, olives stuffed and sardines, and tuna.
 
-[](img/sevilla/tourTasting.jpg)
+![](img/sevilla/tourTasting.jpg)
 
 We did the tasting from the most dry to most sweet, in the other of Fino, Palo Cortado, Amontillado, Oloroso, Crema and Pedro Ximenez. I assisted Claire and in finishing the dry wines (and I sure wasn't complaining) but somehow she was able to finish the sweet wines herself. Go figure :-) 
 
-[](img/sevilla/tourWineCloseup.jpg)
+![](img/sevilla/tourWineCloseup.jpg)
 
 ## An Unexpected Art Tour
 After the tour, we were invited into Bodegas Tradiciòn's art gallery. The winery owners also fancy themselves art collectors, and recently their collection became a certified Spanish art museum. The collection included famous artists like Velazquez and El Greco, but of which we saw at the Prado and other museums in Madrid. 
 
-[](img/sevilla/tourArtVelasquez.jpg)
-[](img/sevilla/tourArtElGreco.jpg)
+![](img/sevilla/tourArtVelasquez.jpg)
+![](img/sevilla/tourArtElGreco.jpg)
 
 What I found even more impressive was the painting of the defeating Moors handing over control to the city of Granada to the Catholic Kings of Spain in 1492. There is a copy of this painting in the Granada city hall, and its likeness is depicted in the Granada section of the Plaza De España in Sevilla. This winery has the original. 
-[](img/sevilla/tourArtGranada.jpg)
+![](img/sevilla/tourArtGranada.jpg)
 
 # Wine on the Square and our way back to Sevilla
 
 We had a few hours to kill before our train, and we had nothing to do but return to Plaza Aranal and put all of our new sherry knowledge to the test. 
 I ordered an Amontillado and then an Oloroso. Claire enjoyed a Crema. 
 
-[](img/sevilla/sherryOnSquare.jpg)
-[](img/sevilla/sherryOnSquare2.jpg)
+![](img/sevilla/sherryOnSquare.jpg)
+![](img/sevilla/sherryOnSquare2.jpg)
 
 We sat and enjoyed our Sherry, enjoyed the sites and sounds of Spanish life, and took photos of adorable dogs. 
 
-[](img/sevilla/plazaFountain.jpg)
-[](img/sevilla/squareDoggo.jpg)
+![](img/sevilla/plazaFountain.jpg)
+![](img/sevilla/squareDoggo.jpg)
 
 And just like that, it was time to head back to Sevilla. 
 
-[](img/sevilla/renfeBack.jpg)
-[](img/sevilla/renfeSunset.jpg)
+![](img/sevilla/renfeBack.jpg)
+![](img/sevilla/renfeSunset.jpg)
 
 I'll let you guess where we ate upon returning to Sevilla. I'll give you 100 guesses, all in little sandwich form. 
 
