@@ -6,7 +6,7 @@ author: Claire
 description: >-
   We spent Saturday exploring Cordoba and then returned to Sevilla for a
   bar/tapas crawl.
-image: /img/dsc_1082.jpg
+image: /img/0c7ef372-1938-4df3-aa34-0a5428e99ffa.jpeg
 tags:
   - Sevilla
 draft: false
