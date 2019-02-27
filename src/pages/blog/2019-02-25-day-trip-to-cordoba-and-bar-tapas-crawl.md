@@ -9,7 +9,7 @@ description: >-
 image: /img/dsc_1082.jpg
 tags:
   - Sevilla
-draft: true
+draft: false
 ---
 
 Saturday started bright and early (by Spanish standards) with a walk to the train station and a 9:20 train.  Most of the streets were empty this early on a weekend.  We made it to the train station on time, put our bags through the x-ray machine (though there was literally no one sitting at the computer watching what went through) and boarded the train for the quick 40 minute train ride to Cordoba.
@@ -74,7 +74,9 @@ We then took our time walking back to the train station.  We ended up walking th
 
 We also came upon a park that is home to a colony of stray cats, so naturally we took many pictures.  
 
-[STRAY CATS]
+![](/img/sevilla/kittiesCordoba1.jpg)
+![](/img/sevilla/kittiesCordoba2.jpg)
+![](/img/sevilla/cordobaTrainStation.jpg)
 
 The train ride home was a bit longer than the train ride there as we took the cheaper, regional train.  We filled the time by reading (Claire) and sleeping (Nate).  Once back in Sevilla, we started walking to our AirBnB and decided that riding bikes would be more fun so we rented Sevici bikes.  We had a lovely ride back to our AirBnB, where we changed before heading out to dinner.
 
@@ -82,6 +84,9 @@ Dinner was another wonderful meal that included pork cooked in a whisky sauce (p
 
 Slightly tipsy, we wandered over to Triana, where Nate used to live.  We went to a bar he used to frequent, T de Triana.  The owner of the bar was working and we grabbed seats at the bar and ordered drinks.  Nate started a conversation with Paco (owner) and he remembered Nate.  They had a lovely conversation catching up on the last six years.  Nate spent quite a bit of time hanging out at this bar and even performed a show there.  I think Paco was very touched that he returned and he treated us to drinks, jamon iberico, and cheese.  They took a picture together to remember the night.
 
-[PACO PHOTO]
+![](/img/sevilla/pacoNateNew.jpg)
+
+Here's a similar photo from 6 years ago. 
+![](/img/sevilla/pacoNateOld.jpg)
 
 It was a day filled with a wonderful sight, delicious food and drinks, and a rekindling of an old relationship - a perfect day for us.
