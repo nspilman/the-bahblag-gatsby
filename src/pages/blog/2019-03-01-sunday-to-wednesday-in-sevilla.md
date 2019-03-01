@@ -9,39 +9,58 @@ tags:
   - Sevilla
 draft: true
 ---
-Our time in Sevilla
+
+After our back-to-back day trips to Jerez and Cordoba, Claire and I were looking forward to staying put in Sevilla from Sunday until leaving for Portugal on Wednesday morning. It was a wonderful mix of relaxed and action packed. 
+
+Before returning to Sevilla after six years since my semester there abroad, I was worried it would have changed, and all of my memories would be sweeter than the real thing. I'm happy to report the city is as sweet as in memory, and that for a city as ancient as Sevilla, six years isn't many. 
 
 #Sunday 
 ##Triana
 
-![](/img/sevilla/trainaInsideMarket.jpg)
-![](/img/sevilla/trainaInsideMarket2.jpg)
+We started our Sunday walking through Triana, the neighborhood across the Guadalquivir river from the center of the city, and the neighborhood in which I lived when studying there. 
+
+We started at the Plaza de Triana, and quickly explored the Traina Market. 
 ![](/img/sevilla/trainaOutsideMarket.jpg)
 ![](/img/sevilla/trainaOutsideMarket2.jpg)
+![](/img/sevilla/trainaInsideMarket.jpg)
+![](/img/sevilla/trainaInsideMarket2.jpg)
 ![](/img/sevilla/trainaPuenteDeIsabel.jpg)
-![](/img/sevilla/trainaSanJacinto1.jpg)
-![](/img/sevilla/trainaSanJacinto2.jpg)
+
+From there, we walked around the neighborhood. Triana was once the hub for Sevilla's ceramics industry. While increases in rent have driven most of the factories to city suburbs, the neighborhood is still proud of its craft. 
+
 ![](/img/sevilla/trianaCeramics1.jpg)
 ![](/img/sevilla/trianaCeramics2.jpg)
 ![](/img/sevilla/trianaCeramics3.jpg)
-![](/img/sevilla/trianaGuadalquivir.jpg)
-![](/img/sevilla/trianaSanJacintoCouple.jpg)
-![](/img/sevilla/guadalquivirSelfie.jpg)
 
-## River
-![](/img/sevilla/riverClaireReading.jpg)
-![](/img/sevilla/riverCruzcampo.jpg)
+We walked up and down the city streets, admiring the architecture and enjoying the people watching on a Sunday early afternoon. "The old Spanish ladies are really out in full force", Claire kept saying. We made it over to Cien Montaditos for lunch.
+
+![](/img/sevilla/trainaSanJacinto1.jpg)
+![](/img/sevilla/trainaSanJacinto2.jpg)
+
+From there we picked up beers and made our way to a classically Sevillana way to kill time - sitting by the river. 
+
+![](/img/sevilla/trianaGuadalquivir.jpg)
+
+## Hanging out on the banks of the Guadalquivir 
+We crossed back over to El Centro from Triana and made it over to the old river-adjacent spot I used to hang. It was just like old times, but this time with my fianceè. 
+
 ![](/img/sevilla/riverPeopleChillin.jpg)
 ![](/img/sevilla/riverView.jpg)
 
-## Macarena
-![](/img/sevilla/macarenaFloat3.jpg)
+I played guitar and took glamor shots of my Cruzcampo while Claire read and enjoyed a Cruzcampo Radler. 
+![](/img/sevilla/riverCruzcampo.jpg)
+![](/img/sevilla/riverClaireReading.jpg)
+
+## La Bascilica de la Macarena - the Holy Week Museum
+
+We 
 ![](/img/sevilla/macarenaMary1.jpg)
 ![](/img/sevilla/macarenaMary2.jpg)
 ![](/img/sevilla/macarenaMuseum1.jpg)
 ![](/img/sevilla/macarenaMuseum2.jpg)
 ![](/img/sevilla/macarenaMuseumFloat.jpg)
 ![](/img/sevilla/macarenaMuseumFloat2.jpg)
+![](/img/sevilla/macarenaFloat3.jpg)
 ![](/img/sevilla/macarenaNazareno.jpg)
 ![](/img/sevilla/macarenaOutside.jpg)
 
