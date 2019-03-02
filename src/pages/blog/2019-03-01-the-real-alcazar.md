@@ -79,3 +79,5 @@ The gardens are also remarkable.  Water, including fountains and streams, is a l
 []!(img/sevilla/alGardens3.jpg)
 []!(img/sevilla/alGardens4.jpg)
 []!(img/sevilla/alGardens5.jpg)
+
+And after that, we went for tapas! We want to thank Chari for the wonderful tour. If any of you find yourselves in Sevilla and need a tour guide for the Alcazar, her information is photographed below!
