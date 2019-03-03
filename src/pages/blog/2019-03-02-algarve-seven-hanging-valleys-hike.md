@@ -4,7 +4,7 @@ title: Algarve - Seven Hanging Valleys Hike
 date: 2019-03-02T17:26:39.038Z
 author: Claire
 description: A hike along Portugal's southern coast.
-image: /img/0c7ef372-1938-4df3-aa34-0a5428e99ffa.jpeg
+image: /img/hikemainphoto.jpg
 tags:
   - Portugal
 draft: true
