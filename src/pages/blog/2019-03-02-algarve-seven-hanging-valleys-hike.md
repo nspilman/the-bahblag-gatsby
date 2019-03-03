@@ -7,7 +7,7 @@ description: A hike along Portugal's southern coast.
 image: /img/hikemainphoto.jpg
 tags:
   - Portugal
-draft: true
+draft: false
 ---
 I've wanted to go to the Algarve region for years and was a bit overwhelmed trying to figure out how we'd spend our time there.  March isn't the best month for a beach vacation, nor did we really want one at this point.  However, I really wanted the chance to take in the beauty of the Algarve region so I started researching hikes.  We haven't gone on any hikes during this trip and we've missed it.  We planned to hike to the top of Table Mountain, but a group of nine tourists were mugged along the same trail just a couple days prior (it was also very hot on the day we were going to hike).  
 
