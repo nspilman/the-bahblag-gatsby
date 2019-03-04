@@ -28,8 +28,6 @@ We got to Faro, and after some rental car rental misunderstandings (I accidental
 
 The food was quite good - the place was packed with mostly folks on their lunch breaks, and we were definitely the only non-Portuguese folks in the place. We mainly spoke English with the waitress, though this lunch began my endeavor to figure out how to bend my Spanish into Portuguese. 
 
-
-
 ## Exploring Faro
 
 After lunch we settled into our AirBnB, and then went out exploring. We were both suffering a bit of what we called a Sevilla hangover, where the world just didn't look as bright as it did back in Sevilla. The first area of Faro through which we walked was pretty run down, and there was graffiti EVERYWHERE. We'd soon warm up to the area, but getting over our Sevilla hangover took some time. 
@@ -68,6 +66,7 @@ Back at the AirBnB, we settled in. This was probably the nicest AirBnB we'd ever
 ![](img/algarve/faroDinnerNightOne.jpg)
 
 For dinner we went to a place close by that Claire found on Google called Portas de Sao Pedro. In honor of our ocean proximity I enjoyed prawns in orange and peanut sauce and octopus in lemon parsley. Claire got a fabulous savory asparagus bread pudding with marinated pork. We split a bottle of a mild but smooth red from the Algarve, and were treated to some delicious dessert wine with our orange cake dessert. Our waitress was lovely, and we'd return on our last night for another delicious dinner. 
+
 # Day 2 - 7 Hanging Cliffs
 
 (Link to other post)
@@ -90,6 +89,7 @@ It was Friday, and it appeared that all local elementary school students were he
 With a heart full from adorableness, we were off to Tavira. 
 
 ## Tavira
+
 Tavira is a southern Portuguese town along the Gilão River, that soon after feeds into the Atlantic Ocean. It's a city that dates back 1000 BC with the Phoenicians settling in the Iberian Peninsula. Since the city was controlled by the Romans, and then the Moors, and finally the Portuguese. What was once a booming fishing town is now seeing a revival through tourism. 
 
 ![](img/algarve/taviraArrived.jpg)
@@ -121,6 +121,7 @@ And at that, we headed back to the rental car and back to Faro. The next morning
 ![](img/algarve/taviraSelfie.jpg)
 
 ## Off to Lisbon
+
 The next morning we hauled our luggage to the train station and were off to Lisbon! 
 ![](img/algarve/faroToLisboa.jpg)
 ![](img/algarve/faroToLisboa2.jpg)
