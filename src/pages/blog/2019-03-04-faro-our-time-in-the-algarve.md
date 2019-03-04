@@ -7,7 +7,7 @@ description: Three days in Southern Portugal
 image: /img/farowalkingaround.jpg
 tags:
   - Faro
-draft: true
+draft: false
 ---
 We left Sevilla on Wednesday morning on bus to Faro for spend three days in the beautiful Algarve region of Southern Portugal. This is an area Claire had always wanted to explore, and we chose Faro for its central location to sites worth visiting along the southern coast. This is the only stop on our trip where we'd have a rental car and take driving day trips. 
 
@@ -68,9 +68,6 @@ Back at the AirBnB, we settled in. This was probably the nicest AirBnB we'd ever
 ![](img/algarve/faroDinnerNightOne.jpg)
 
 For dinner we went to a place close by that Claire found on Google called Portas de Sao Pedro. In honor of our ocean proximity I enjoyed prawns in orange and peanut sauce and octopus in lemon parsley. Claire got a fabulous savory asparagus bread pudding with marinated pork. We split a bottle of a mild but smooth red from the Algarve, and were treated to some delicious dessert wine with our orange cake dessert. Our waitress was lovely, and we'd return on our last night for another delicious dinner. 
-
-
-
 # Day 2 - 7 Hanging Cliffs
 
 (Link to other post)
@@ -90,27 +87,40 @@ It was Friday, and it appeared that all local elementary school students were he
 ![](img/algarve/day3CarnavalKids5.jpg)
 ![](img/algarve/day3CarnavalKids6.jpg)
 
-![](img/algarve/faroToLisboa.jpg)
-![](img/algarve/faroToLisboa2.jpg)
-
 With a heart full from adorableness, we were off to Tavira. 
 
 ## Tavira
-
 Tavira is a southern Portuguese town along the Gilão River, that soon after feeds into the Atlantic Ocean. It's a city that dates back 1000 BC with the Phoenicians settling in the Iberian Peninsula. Since the city was controlled by the Romans, and then the Moors, and finally the Portuguese. What was once a booming fishing town is now seeing a revival through tourism. 
 
 ![](img/algarve/taviraArrived.jpg)
 ![](img/algarve/taviraArrived2.jpg)
 ![](img/algarve/taviraArrived3.jpg)
+
+We made it to the main square in Tavira and followed a Rick Steves guidebook walking tour around the old city. We started with the old Roman Door, the one relic of Roman civilization on Tavira. 
+
+![](img/algarve/taviraWalkingTourRomanDoor.jpg)
 ![](img/algarve/taviraWalkingTour2.jpg)
 ![](img/algarve/taviraWalkingTour3.jpg)
+
+We explored a garden within an old castle wall, and enjoyed the city scenery from the top. 
+
 ![](img/algarve/taviraWalkingTour4.jpg)
 ![](img/algarve/taviraWalkingTourGarden1.jpg)
 ![](img/algarve/taviraWalkingTourGarden2.jpg)
-![](img/algarve/taviraWalkingTourRomanDoor.jpg)
 ![](img/algarve/taviraWalkingTourViewClaire.jpg)
 ![](img/algarve/taviraWalkingTourViewFromTop1.jpg)
 ![](img/algarve/taviraWalkingTourViewFromTop2.jpg)
 ![](img/algarve/taviraWalkingTourViewNate.jpg)
+
+After the walk, we stopped off for lunch at Tasquina de Paula. The place was absolutely packed to the brim, and we must have waited an hour and a half for our food, but the wait was worth it. Our server was we assume the owner of the place, along with his wife in the kitchen (Paula). Every time we commented on the quality of the food, he responded "My wife's food is so good. It's my problem" and pointed at his round belly. Claire got meatballs and I got baked rabbit, and both dishes were worth waiting an hour and a half in the sun for. 
+
 ![](img/algarve/taviraLunch.jpg)
+
+And at that, we headed back to the rental car and back to Faro. The next morning it was off to Lisbon. 
+
 ![](img/algarve/taviraSelfie.jpg)
+
+## Off to Lisbon
+The next morning we hauled our luggage to the train station and were off to Lisbon! 
+![](img/algarve/faroToLisboa.jpg)
+![](img/algarve/faroToLisboa2.jpg)
