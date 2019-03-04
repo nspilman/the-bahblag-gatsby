@@ -93,7 +93,11 @@ It was Friday, and it appeared that all local elementary school students were he
 ![](img/algarve/faroToLisboa.jpg)
 ![](img/algarve/faroToLisboa2.jpg)
 
+With a heart full from adorableness, we were off to Tavira. 
+
 ## Tavira
+
+Tavira is a southern Portuguese town along the Gilão River, that soon after feeds into the Atlantic Ocean. It's a city that dates back 1000 BC with the Phoenicians settling in the Iberian Peninsula. Since the city was controlled by the Romans, and then the Moors, and finally the Portuguese. What was once a booming fishing town is now seeing a revival through tourism. 
 
 ![](img/algarve/taviraArrived.jpg)
 ![](img/algarve/taviraArrived2.jpg)
