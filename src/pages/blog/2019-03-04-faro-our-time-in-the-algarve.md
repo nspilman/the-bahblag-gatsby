@@ -17,7 +17,7 @@ We took a 10am bus from Sevilla to Faro that last about 2.5 hours. On the bus wa
 
 ![](img/algarve/busToFaroSelfie.jpg)
 
-## Arrive in Faro
+## Arriving in Faro
 
 We got to Faro, and after some rental car rental misunderstandings (I accidentally rented a manual car - whoops), we were off to the AirBnB. It was a bit stressful getting into town, but our AirBnB host met us outside the place, gave us the key and showed us the ropes. We were both starving and grabbed lunch at the recommended place immediately next door - Crazy Chicken. 
 
@@ -67,9 +67,11 @@ Back at the AirBnB, we settled in. This was probably the nicest AirBnB we'd ever
 
 For dinner we went to a place close by that Claire found on Google called Portas de Sao Pedro. In honor of our ocean proximity I enjoyed prawns in orange and peanut sauce and octopus in lemon parsley. Claire got a fabulous savory asparagus bread pudding with marinated pork. We split a bottle of a mild but smooth red from the Algarve, and were treated to some delicious dessert wine with our orange cake dessert. Our waitress was lovely, and we'd return on our last night for another delicious dinner. 
 
-# Day 2 - 7 Hanging Cliffs
+# Day 2 - Seven Hanging Cliffs
 
-(Link to other post)
+We drove out about an hour to the trailhead of the Seven Hanging Cliffs hike. 
+
+Full blog post about it [here](https://www.thebahblog.com/blog/2019-03-02-algarve-seven-hanging-valleys-hike/)
 
 # Day 3 - Surprise children's Carnaval and Tavira Day Trip
 
