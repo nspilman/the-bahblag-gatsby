@@ -17,7 +17,8 @@ We took a 10am bus from Sevilla to Faro that last about 2.5 hours. On the bus wa
 
 ![](img/algarve/busToFaroSelfie.jpg)
 
-## Arrive in Faro
+
+## Arriving in Faro
 
 We got to Faro, and after some rental car rental misunderstandings (I accidentally rented a manual car - whoops), we were off to the AirBnB. It was a bit stressful getting into town, but our AirBnB host met us outside the place, gave us the key and showed us the ropes. We were both starving and grabbed lunch at the recommended place immediately next door - Crazy Chicken. 
 
