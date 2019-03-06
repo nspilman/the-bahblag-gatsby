@@ -4,8 +4,7 @@ title: Walking Our Way Through Lisbon
 date: 2019-03-05T15:57:16.335Z
 author: Claire
 description: A day spent exploring Lisbon by foot.
-image: >-
-  https://raw.githubusercontent.com/nspilman/the-bahblag-gatsby/master/static/img/0c7ef372-1938-4df3-aa34-0a5428e99ffa.jpeg
+image: /img/mainphoto.jpg
 tags:
   - Lisbon
 draft: true
