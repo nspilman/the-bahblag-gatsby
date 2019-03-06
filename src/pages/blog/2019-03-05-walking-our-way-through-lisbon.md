@@ -4,10 +4,10 @@ title: Lisbon Day 3 - Walking Our Way Through Lisbon
 date: 2019-03-05T15:57:16.335Z
 author: Claire
 description: A day spent exploring Lisbon by foot.
-image: /img/mainphoto.jpg
+image: /img/bahbesatviewpoint.jpg
 tags:
   - Lisbon
-draft: true
+draft: false
 ---
 
 We spent our Monday walking all over Lisbon and it was delightful.  Our hostel is in the Baixa, or downtown, district.  It's also quickly become the touristy district, so it was nice to escape it for a bit.  We started our day by going back to the Alfama district, where we had been the night before for our fado show.  This was once the sailors' district of Lisbon but it was actually established during the Moorish period.  It has the characteristic Moorish tangled street plan which makes for fun exploring.
