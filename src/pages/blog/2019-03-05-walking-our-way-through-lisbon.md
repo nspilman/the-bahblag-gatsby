@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Walking Our Way Through Lisbon
+title: Lisbon Day 3 - Walking Our Way Through Lisbon
 date: 2019-03-05T15:57:16.335Z
 author: Claire
 description: A day spent exploring Lisbon by foot.
