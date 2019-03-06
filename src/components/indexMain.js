@@ -24,7 +24,7 @@ render(){
   </div>
 </header>
 <a href={node.fields.slug} className="image featured">
-    <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+    {/* <Img fluid={node.frontmatter.image.childImageSharp.fluid} /> */}
 </a>
 <p dangerouslySetInnerHTML={{ __html: node.excerpt }}></p>
 <footer>
