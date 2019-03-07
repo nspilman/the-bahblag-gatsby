@@ -40,7 +40,7 @@ We got to the palace and the fog may have been even thicker.
 ![](img/lisbon/palaceFogBusFromPalace.jpg)
 ![](img/lisbon/palaceClaireTurret.jpg)
 
-When I was here six years ago, what I loved the most about the palace were the views, so I suggested we begin the palace tour in hopes that it would clear up. 
+When I was here six years ago, what I loved the most about the palace were the views, so I suggested we begin the palace tour in hopes that it would clear up. The palace itself was the home of royalty leading up to the revolution in 1910 in Portugal, expelling the royalty - after which the palace became a museum. 
 
 ![](img/lisbon/palaceInsideKingBust.jpg)
 ![](img/lisbon/palaceInside1Courtyard.jpg)
