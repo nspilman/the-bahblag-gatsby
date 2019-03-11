@@ -25,7 +25,7 @@ This shipping process used to involve trecherous voyages by boat, but these days
 
 ![](/img/porto/jetSkiingPorto.jpg)
 
-Technically all of the port wine aging is done in Gaia, the city across the Duoro river from Porto. While you can surely taste port wine in Porto proper, all of the major winery tasting rooms, such as Taylor's, Graham's, Ferriera's, etc, are across the river in Gaia. We stayed in Gaia, which afforded us the necessity of crossing the enormous bridge to get into city center. Porto and Gaia have tons of hills, and we could either take the bridge from the upper section close to our AirBnB, or the lower section blose to the wine tasting rooms and the river's edge.
+Technically all of the port wine aging is done in Gaia, the city across the Duoro river from Porto. While you can surely taste port wine in Porto proper, all of the major winery tasting rooms, such as Taylor's, Graham's, Ferriera's, etc, are across the river in Gaia. We stayed in Gaia, which afforded us the necessity of crossing the enormous bridge to get into city center. Porto and Gaia have tons of hills, and we could either take the bridge from the upper section close to our AirBnB, or the lower section close to the wine tasting rooms and the river's edge.
 
 ## The Bridge Between Porto and Gaia
 
@@ -110,7 +110,7 @@ Claire and I got our fair share of exercise going down to the waterfront and the
 
 # The Food
 
-Food in Porto was quite good, and we quickly found our favorite restaurants to frequent. The first restaurant was Cafe Conga, a ridiculously cheap and inpretentious eatery that served greasy almost-fast-food. 
+Food in Porto was quite good, and we quickly found our favorite restaurants to frequent. The first restaurant was Cafe Conga, a ridiculously cheap and unpretentious eatery that served greasy almost-fast-food. 
 
 ![](/img/porto/foodCafeConga.jpg)
 
