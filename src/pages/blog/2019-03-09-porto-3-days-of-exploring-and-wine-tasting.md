@@ -4,7 +4,7 @@ title: Porto - 3 Days of Exploring and Wine Tasting
 date: 2019-03-09T08:38:59.547Z
 author: Nate
 description: 'Golly, Porto is beautiful'
-image: /img/mainphoto.jpg
+image: /img/landscapeholdinghands.jpg
 tags:
   - Porto
 draft: false
