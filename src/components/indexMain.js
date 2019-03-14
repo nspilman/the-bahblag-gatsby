@@ -9,7 +9,6 @@ render(){
     return(
     <div id="main">
     {posts.map(({ node }) => {
-      console.log(node.frontmatter)
       return (
 
 <article className="post">
