@@ -4,10 +4,10 @@ title: Porto - Beyond Eating and Drinking
 date: 2019-03-12T17:32:48.546Z
 author: Claire
 description: The other things we did in Porto besides drink port and eat delicious food.
-image: /img/landscapeholdinghands.jpg
+image: /img/img_8526.jpg
 tags:
   - Porto
-draft: true
+draft: false
 ---
 I'm sure it looks like all we did in Porto was drink port, eat delicious food, and walk all over, but I did convince Nate to go to a couple historical places in between all of that.  There were three highlights - the train station, the cathedral, and the Stock Exchange Palace.
 
