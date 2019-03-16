@@ -4,10 +4,10 @@ title: Pitti Palace
 date: 2019-03-14T17:31:15.125Z
 author: Claire
 description: A tour of the Pitti Palace.
-image: /img/dsc_0425.jpg
+image: /img/dsc_0575.jpg
 tags:
   - Florence
-draft: true
+draft: false
 ---
 
 ![](/img/florence/outsidePittiPalace.jpg)
