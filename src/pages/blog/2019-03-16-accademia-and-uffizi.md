@@ -4,8 +4,7 @@ title: Accademia and Uffizi
 date: 2019-03-16T09:45:33.826Z
 author: Claire
 description: A day spent admiring wonderful art.
-image: >-
-  https://raw.githubusercontent.com/nspilman/the-bahblag-gatsby/master/static/img/144a6643-3a24-4ad9-84ee-5693bb9c4e7b.jpeg
+image: /img/dsc_0196.jpg
 tags:
   - Florence
 draft: true
