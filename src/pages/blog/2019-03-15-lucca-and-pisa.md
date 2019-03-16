@@ -4,10 +4,10 @@ title: Lucca and Pisa
 date: 2019-03-14T17:58:42.668Z
 author: Claire
 description: A rainy day trip to Lucca and Pisa.
-image: /img/dsc_0425.jpg
+image: /img/pisatowerbahbes.jpg
 tags:
   - Pisa
-draft: true
+draft: false
 ---
 Lucca has long been one of my favorite Tuscan towns as I have fond memories of leisurely riding a bike along the wall with my parents and eating gelato after.  Thus, I was very excited to show Lucca to Nate.  We took a 9am train on Wednesday morning and got to Lucca around 10:30.  It was pouring when we arrived and for our whole time there.
 
