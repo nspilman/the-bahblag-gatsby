@@ -13,35 +13,27 @@ Lucca has long been one of my favorite Tuscan towns as I have fond memories of l
 
 ![](/img/florence/LuccaArrival.jpg)
 ![](/img/florence/LuccaArrival2.jpg)
-![](/img/florence/luccaPizza.jpg)
-![](/img/florence/luccaSanGiovani.jpg)
-![](/img/florence/luccaSanGiovanni1.jpg)
-![](/img/florence/luccaSanGiovanni2.jpg)
-![](/img/florence/luccaSanGiovanni3.jpg)
-![](/img/florence/luccaSelfieOnWall.jpg)
-![](/img/florence/luccaWalk1.jpg)
+
+We started by doing a quick walking tour to orient ourselves.  For some background, Lucca is surrounded by a perfectly intact Roman wall.  The train station is outside of the wall, so we started our walk by going through one of the large city gates.  The town itself is small and you could walk from one end to another in 20-25 minutes.  We strolled all around it during our (wet) time there and got a taste of life in Lucca.![](/img/florence/luccaWalk1.jpg)
 ![](/img/florence/luccaWalk2.jpg)
 ![](/img/florence/luccaWalk4.jpg)
 ![](/img/florence/luccaWalk5.jpg)
 ![](/img/florence/luccaWalk6.jpg)
 
-[Arrival in Lucca]
-
-We started by doing a quick walking tour to orient ourselves.  For some background, Lucca is surrounded by a perfectly intact Roman wall.  The train station is outside of the wall, so we started our walk by going through one of the large city gates.  The town itself is small and you could walk from one end to another in 20-25 minutes.  We strolled all around it during our (wet) time there and got a taste of life in Lucca.
-
-[Photos of Lucca]
-
 We stopped in the San Giovanni Church, which has ancient Roman ruins including some beautiful mosaics, graffiti, and ancient hot tubs.
 
-[SanGiovanni Church]
+![](/img/florence/luccaSanGiovani.jpg)
+![](/img/florence/luccaSanGiovanni1.jpg)
+![](/img/florence/luccaSanGiovanni2.jpg)
+![](/img/florence/luccaSanGiovanni3.jpg)
 
 For lunch, we had giant slices of pizza with prosciutto on top.  It was delicious and exactly what we needed to warm up.
 
-[Pizza]
+![](/img/florence/luccaPizza.jpg)
 
 We finished our time in Lucca by going up on the wall.  I had planned for us to rent bikes, but it was raining even harder so we scraped that plan (a reason to return!).  Our time in Lucca definitely didn't go as I had expected, but it was still a lovely morning and wonderful to return to the town.
 
-[Selfies on the wall]
+![](/img/florence/luccaSelfieOnWall.jpg)
 
 It was a quick 30 minute train trip from Lucca to Pisa.  We got off the train and Pisa Centrale and took our time walking to the tower.  It wasn't raining in Pisa and the sun was even starting to come out so we soaked up every bit of the blue sky.  
 

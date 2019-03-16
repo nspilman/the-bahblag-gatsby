@@ -15,7 +15,6 @@ draft: true
 Nate was a bit burned out from museums on Tuesday but I love the Pitti Palace, especially the Boboli Gardens, and wanted to visit again.  So, I spent Tuesday afternoon strolling the palace by myself.  I started by touring the Palatine Gallery, which took me through grand palatial rooms covered with artwork.  When I say covered, I mean there were often 5-8 paintings on a wall. 
 
 ![](/img/florence/insidePalatine1.jpg)
-
 ![](/img/florence/palatinePainting1.jpg)
 ![](/img/florence/palatinePainting2.jpg)
 ![](/img/florence/palatinePainting3.jpg)
