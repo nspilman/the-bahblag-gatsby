@@ -9,7 +9,6 @@ tags:
   - Florence
 draft: false
 ---
-
 Although we were just in Florence this past summer and went to most of the museums, we both really wanted to return to the Accademia and the Uffizi.  Our time was a bit more flexible this time, so we did online reservations as opposed to the Firenze Card.  
 
 We started our day on Thursday with the Accademia.  The highlight of the Accademia is Michaelangelo's David, but I like to prolong the suspense so we started our visit by looking at the music portion of the museum.  We saw the extensive string collection acquired by the Medicis as well as some early pianos.
@@ -76,7 +75,7 @@ From here we moved into the High Renaissance, where the highlight was Michaelang
 
 ![](/img/florence/uffiziMichaelangelo.jpg)
 
-The hallway of the Uffizi is lined with statues and the paintings of nobleman.  There is also a fantastic view of the Duoro from the windows.
+The hallway of the Uffizi is lined with statues and the paintings of nobleman.  There is also a fantastic view of the Arno from the windows.
 
 ![](/img/florence/uffiziArnoView.jpg)
 
