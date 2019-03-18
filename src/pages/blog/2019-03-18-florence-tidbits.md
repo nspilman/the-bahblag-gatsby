@@ -4,8 +4,7 @@ title: Florence Tidbits
 date: 2019-03-18T16:32:17.313Z
 author: Claire
 description: A couple miscellaneous things about Florence that we don't want to forget.
-image: >-
-  https://raw.githubusercontent.com/nspilman/the-bahblag-gatsby/master/static/img/0c7ef372-1938-4df3-aa34-0a5428e99ffa.jpeg
+image: /img/0c7ef372-1938-4df3-aa34-0a5428e99ffa.jpeg
 tags:
   - Florence
 draft: true
