@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: An Afternoon in Bologna
-date: 2019-03-18T17:13:46.674Z
+date: 2019-03-17T17:13:46.674Z
 author: Nate
 description: The bustling birthplace of Tuscan cuisine
 image: /img/bolognaTowerFromTop.jpg
