@@ -11,6 +11,9 @@ draft: true
 ---
 * Food - We ate incredibly well in Florence, but there are a couple specifics to call out.
   * Gelato - We decided mid-way through our time in Florence that we should get gelato every single day for the rest of our trip.  It was a good decision.  Our AirBnB was across the street from a wonderful gelato place, Sbrino - Gelatificio Contadino.  My favorite?  Getting a scoop of one of their delicious fruit sorbets and another scoop of one of their milkier gelatos.
+
+[Gelato Photos]
+
   * Sandwiches - For the majority of our lunches in Florence we grabbed sandwiches at All'Antico Vinaio.  My go-to was the inferno - ham with roasted eggplant, a spicy mayo, and arugula.  The sandwiches came on delicious foccacia bread and were worth the long lines.
   * Mercato Centrale - One of our favorite dinner spots when we weren't sure what we wanted but didn't want to spend a lot of money.  Highlights included the pasta and the vegetarian dumplings.
   * Il Santo Bevitore - One of the nicest meals we had throughout the trip.  Absolutely everything we had here was fantastic, but reservations are a must.
