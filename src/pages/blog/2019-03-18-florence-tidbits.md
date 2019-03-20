@@ -11,14 +11,14 @@ draft: true
 ---
 ## Food - We ate incredibly well in Florence, but there are a couple specifics to call out.
 
-## Gelato 
+## Gelato
 
 We decided mid-way through our time in Florence that we should get gelato every single day for the rest of our trip.  It was a good decision.  Our AirBnB was across the street from a wonderful gelato place, Sbrino - Gelatificio Contadino.  My favorite?  Getting a scoop of one of their delicious fruit sorbets and another scoop of one of their milkier gelatos.
 
 ![](/img/florence/miscPostGelato.JPG)
 ![](/img/florence/miscPostGelato2.JPG)
 
-## Sandwiches 
+## Sandwiches
 
 For the majority of our lunches in Florence we grabbed sandwiches at All'Antico Vinaio.  My go-to was the inferno - ham with roasted eggplant, a spicy mayo, and arugula.  The sandwiches came on delicious foccacia bread and were worth the long lines.
 
@@ -49,7 +49,7 @@ One of the nicest meals we had throughout the trip.  Absolutely everything we ha
 ![](/img/florence/miscPostIlSantoBevitore2.jpg)
 ![](/img/florence/miscPostIlSantoBevitore3.jpeg)
 
-## Boite 
+## Boite
 
 Our favorite coffee shop and they also serve delicious breakfast sandwiches.  They also have a painting of a woman enjoying her coffee on the wall, so naturally I had to copy that and ask Nate for a picture (I did the exact same thing in July).
 
@@ -58,14 +58,12 @@ Our favorite coffee shop and they also serve delicious breakfast sandwiches.  Th
 ![](/img/florence/miscPostBoiteClaire1.jpg)
 ![](/img/florence/miscPostBoiteClaire2.jpg)
 
-## Trattoria da Giorgio 
+## Trattoria da Giorgio
 
 Another favorite restaurant.  15euros includes 2 large dishes and a side dish.  Favorites included spaghetti pomodoro, cinghiale, Tuscan chianti beef stew, and Florentine steak.
 
 ![](/img/florence/miscPostDaGiorgio.jpg)
 ![](/img/florence/miscPostDaGiorgio2.jpg)
-
-
 
 ## Archea Brewery Tap Room
 
