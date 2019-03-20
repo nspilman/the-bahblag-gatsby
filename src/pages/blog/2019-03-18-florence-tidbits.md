@@ -7,7 +7,7 @@ description: A couple miscellaneous things about Florence that we don't want to 
 image: /img/miscPostPiazzaMichSelfie.jpg
 tags:
   - Florence
-draft: true
+draft: false
 ---
 ## Food - We ate incredibly well in Florence, but there are a couple specifics to call out.
 
