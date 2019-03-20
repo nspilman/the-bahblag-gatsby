@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Florence Tidbits
-date: 2019-03-18T16:32:17.313Z
+date: 2019-03-19T16:32:17.313Z
 author: Claire
 description: A couple miscellaneous things about Florence that we don't want to forget.
 image: /img/miscPostPiazzaMichSelfie.jpg
