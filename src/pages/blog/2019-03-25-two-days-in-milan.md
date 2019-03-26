@@ -9,8 +9,10 @@ tags:
   - Milan
 draft: true
 ---
-# Day One
 
+We spent our last two days of our trip in Milan, partially because it had the best options for flights back to Seattle, but we also wanted to see the major modern Italian city that is Milan. My Aunt and Uncle lived in Milan for seven years, and I was excited to explore and send back photos! After spending over a week in Florence, Milan felt infinitely more modern. In addition, not everyone was wearing Gucci or Prada, as I half expected. 
+
+# Day One
 
 We left our AirBnB in Florence at 8:45 for our 10AM train, stopping at Biote along the way for cappucini and panini. We got to the train and applauded our marked bag schlepping improvement over the weeks. 
 
@@ -63,16 +65,8 @@ The inside of the Duomo was stunning. The Duomo in Milan has the most stain glas
 
 We left the Duomo and it was time to climb! But first, a bathroom break. There was a bathroom next to the Duomo that charged a euro entrance fee. I was in a state of "worth it", so I tried making change of my two euro coin - and so the saga began.
 
- When the machine wasn't making my change, the bathroom attendant pointed out that I was trying to make two euro change from a Five South Arfrican Rand coin. I left the bathroom defeated. 
+From there I witnessed a woman fall and hurt herself. I ran go get help, but had to speak with multiple Duomo employees and go to different buildings to get my message across. However long later, I was able to make change and pay the euro to use the bathroom. 
 
- I returned to Claire and realized "Wait, I can make change from my Five Euro note!" I return to the bathroom just in time to watch a middle aged woman fall right in the bathroom change-making area, as her friend shouts "OH, CAROL!". We approach and see that she's bleeding hard from the face. "OH CAROL, YOU'RE REALLY BLEEDING!"
-
- My instinct kicks in the find authority, and the closest Duomo employees I can find are at the front of the entrance lines. In English I say "Hi - I need here. There's a woman in the bathroom who fell, is bleeding, and needs medical attention." The man responds "You need to buy a ticket at the ticket office to come in." "No, I don't want to go in - I need medical help," I retort, to which he points me to the ticket office. Finally, in broken Italian I say "There is a woman... in the bathroom... " and say "she fell" in Spanish before making hand gestures of impact to the head. "Yes, there is a woman. Go you need to get a ticket." says the attendant. 
-
- I return to the bathroom to see that Carol is still bleeding. The bathroom attendant sees me and says "You are going to have to wait, sir." I make a B line to the ticket office to see if they can help poor Carol out. I blow past Claire, who has no idea of the drama, muttering "Carol is bleeding from her freakin' head and I need to get her help." We find someone at the ticket office who speaks enough English to understand the urgency, and rushes over right away. By the time I return to the bathroom, the blood is cleaned and Carol is being tended to in the women's room. I insert my 5 euros into the change machine, insert one euro of my change into the bathroom turnstyle, and end the saga of the bathroom. 
-
- We saw Carol's tour group soon after, and while Carol was MIA, everyone was in high spirits. 
- 
  From there, it was time to climb the Duomo.  
 
 We climbed up the steps and were rewarded with a beautiful view of the plaza, as well as closer looks at the stunning spires of the cathedral. From around back we were able to get views of the more modern parts of the city as well. 
@@ -131,10 +125,12 @@ From there we walked around Milano, hearing about its history before we came to 
 ![](/img/milano/dayTwoWalkingAroundMilan.jpg)
 ![](/img/milano/dayTwoWalkingAroundMilan2.jpg)
 
-From within the castle, 
+From within the castle, we heard the lengthy history of Milan Dukedom, and the power struggles that lead to the construction of the castle. 
 ![](/img/milano/dayTwoOutsideCastle.jpg)
 ![](/img/milano/dayTwoOutsideCastle2.jpg)
 ![](/img/milano/dayTwoInsideCastleRoyalty.jpg)
+
+From there, it was on to the moment we've all been waiting for - the Last Supper. 
 
 ## The Last Supper
 ![](/img/milano/dayTwoLastSupper1.jpg)
