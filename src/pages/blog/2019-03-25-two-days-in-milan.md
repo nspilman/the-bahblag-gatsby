@@ -7,7 +7,7 @@ description: Florence
 image: /img/milanoPost.jpg
 tags:
   - Milan
-draft: true
+draft: false
 ---
 
 We spent our last two days of our trip in Milan, partially because it had the best options for flights back to Seattle, but we also wanted to see the major modern Italian city that is Milan. My Aunt and Uncle lived in Milan for seven years, and I was excited to explore and send back photos! After spending over a week in Florence, Milan felt infinitely more modern. In addition, not everyone was wearing Gucci or Prada, as I half expected. 
@@ -133,12 +133,22 @@ From within the castle, we heard the lengthy history of Milan Dukedom, and the p
 From there, it was on to the moment we've all been waiting for - the Last Supper. 
 
 ## The Last Supper
+
+We arrived at the church and were distributed our tickets. Our tickets were only valid for a 15 minute period, after which we'd be ushered out. The Last Supper is painted on the wall of this church. The work is breathetaking, though good to note that due to the methods used, a variety of environmental factors, and intentional damage, very little of the original painting remains today despite numerous restoration attempts, the last being completed in 1999. 
+
+The Last Super tells the story of the Passover Seder held the night before Judas betrays Jesus, and was significantly larger than we'd expected. The figures in the painting are three times the size of normal people, but through perspective work, Jesus and the rest of the Supper guests appear to be in the room with you. 
+
 ![](/img/milano/dayTwoLastSupper1.jpg)
 ![](/img/milano/dayTwoLastSupper2.jpg)
 ![](/img/milano/dayTwoLastSupper3.jpg)
 ![](/img/milano/dayTwoLastSupper4.jpg)
 
+Once our 15 minutes were up, we high-tailed it over to La Scala Opera House to see the museum and take a picture of the inside. 
+
 ##Inside La Scala
+
+My Aunt and Uncle played in the La Scala orchestra in the 70s, so it felt familiar touring the opera house. Once we photosgraphed the theater itself, we quickly toured the museum before going back to the mall and finding a very late lunch. 
+
 ![](/img/milano/dayTwoInsideLaScala1.jpg)
 ![](/img/milano/dayTwoInsideLaScala2.jpg)
 ![](/img/milano/dayTwoInsideLaScala3.jpg)
@@ -148,8 +158,17 @@ From there, it was on to the moment we've all been waiting for - the Last Supper
 ![](/img/milano/dayTwoInsideLaScalaMuseum3.jpg)
 
 ## Prada
+
+We returned to the mall and went to the Prada store. We walked around and gawked at how dumb-expensive the clothing was. There was actually a jacket on sale that was very similar to the jacket I was currently wearing. #HighFashion
 ![](/img/milano/dayTwoMallPrada.jpg)
 
+From there we got a quick lunch and walked back to our AirBnB. We admired the beautiful dogs in Sampione Park, grabbed some gelato and got to packing.
 ![](/img/milano/dayTwoFloofs.jpg)
 ![](/img/milano/dayTwoGelato.jpg)
+
+We'd originally planned a grand last supper (of the trip), but decided for the sake of having to wake up super early for our flight the next day, we went back to... wait for it... Cien Montaditos! There are three in Milan, and one was within walking distance. It was a beautifully familiar way to end our trip, and a fun experience to try the Italy-specific little sandwiches. 
+
 ![](/img/milano/dayTwoCienMontaditos.jpg)
+
+## Leaving Europe
+We woke up at 4:30AM the next day to get to the airport. From there we flew from Milano to JFK and then JFK to Seattle. 
