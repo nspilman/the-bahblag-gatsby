@@ -7,6 +7,7 @@ description: Our trip ends with two days in Milan
 image: /img/milanoPost.jpg
 tags:
   - Milan
+  - Italy
 draft: false
 ---
 
